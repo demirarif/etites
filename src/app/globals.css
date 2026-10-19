@@ -1195,6 +1195,26 @@ img.tone[data-lit="true"],
   }
 }
 
+/* Telefonda referans şeridi girişin hemen altında, plakaların üstünde durur. Masaüstünde plakalardan sonra kalır. */
+@media (max-width: 760px) {
+  main:has(> .intro) {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .intro {
+    display: contents;
+  }
+
+  .intro > .hero {
+    order: -2;
+  }
+
+  .refbridge {
+    order: -1;
+  }
+}
+
 /* Dar ekranda başlık ve bağlantı logoların üstünde tek satırda durur, logolar tam genişlikte akar */
 @media (max-width: 760px) {
   .refband {

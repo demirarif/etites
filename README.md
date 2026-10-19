@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Etites İklimlendirme web sitesi
 
-## Getting Started
+etites.com.tr'nin yeni sürümü. Next.js 16 ile yazıldı ve düz HTML dosyaları olarak derlenir. Sunucuda Next.js ya da Node çalışmaz, sunucu yalnızca dosya gönderir.
 
-First, run the development server:
+## Komutlar
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+| Komut | Ne yapar |
+| --- | --- |
+| `npm install` | Bağımlılıkları kurar |
+| `npm run dev` | Geliştirme sunucusu, http://localhost:3000 |
+| `npm run build` | Siteyi `out` klasörüne derler, ardından `out/.htaccess` dosyasını yazar |
+| `npm start` | Derlenen siteyi yerelde gösterir, http://localhost:3100 |
+| `npm run lint` | Kod denetimi |
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Yayına alma (cPanel ya da başka bir Apache hosting)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1. `npm run build` çalıştır.
+2. Sunucudaki eski siteyi yedekle, sonra `public_html` klasörünü boşalt.
+3. `out` klasörünün içindekileri `public_html` klasörüne yükle. `.htaccess` gizli bir dosyadır, FTP programında ya da dosya yöneticisinde gizli dosyaları göster seçeneğini aç.
+4. Kontrol et:
+   - https://www.etites.com.tr açılıyor mu?
+   - http://etites.com.tr adresi https://www.etites.com.tr adresine gidiyor mu?
+   - Eski bir adres, örneğin https://www.etites.com.tr/dorce-prefabrik-fabrika-projesi/, yeni proje sayfasına gidiyor mu?
+   - Olmayan bir adres 404 sayfasını gösteriyor mu?
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+`.htaccess` şunları yapar:
 
-## Learn More
+- http ve www'siz adresleri https://www.etites.com.tr adresine yönlendirir. Bunu yalnız bu alan adında yapar, deneme sunucusunda çalışmaz.
+- Eski etites.com.tr adreslerini (`src/data/redirects.json`) yeni sayfalara kalıcı olarak yönlendirir. Bir yönlendirmenin hedef sayfası silinirse derleme hata verip durur.
+- 404 sayfasını, önbelleği ve sıkıştırmayı ayarlar.
 
-To learn more about Next.js, take a look at the following resources:
+Site Apache dışında bir yere (Vercel, Netlify, Nginx) konursa bu yönlendirmeler o sunucunun ayarına taşınmalıdır.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## İçerik nerede
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+| İçerik | Dosya |
+| --- | --- |
+| Projeler | `src/data/projects.json` |
+| Proje görselleri ve kaynakları | `src/data/stock.json`, `public/media/stok` |
+| Referanslar | `src/data/references.json`, `public/referanslar` |
+| Hizmetler | `src/data/services.ts` |
+| Firma bilgileri | `src/data/site.ts` |
+| Eski adres yönlendirmeleri | `src/data/redirects.json` |
 
-## Deploy on Vercel
+## Ana sayfa filmi
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+`scripts/retime-home-video.py` filmi orijinal parçalardan bölüm bölüm hızlandırır. Siteye konacak flu kopyaları ve başlangıç görselini `public/media/video` klasörüne yazar.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Orijinal parçalar ve net arşiv kopyası `video/` klasöründedir. Büyük oldukları için GitHub'a konmaz, ayrıca yedeklenmelidir.
+
+Gerekenler: Python 3 ile numpy, libx264 ve libsvtav1 destekli ffmpeg.

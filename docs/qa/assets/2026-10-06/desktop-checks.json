@@ -1,0 +1,48 @@
+{
+  "date": "2026-10-06",
+  "viewport": "1440x1000",
+  "passed": [
+    {
+      "name": "First visit shows Etites map without consent gate",
+      "visible": true,
+      "logo": "/brand/etites-logo-renkli.png",
+      "iframes": 0,
+      "button": true
+    },
+    {
+      "name": "Map preference saves, persists between pages and restores inline"
+    },
+    {
+      "name": "Contact form validates and prepares correct WhatsApp handoff",
+      "externalMessageSent": false
+    },
+    {
+      "name": "Unverified blog publication dates are absent from page and metadata"
+    },
+    {
+      "name": "Centered bold reference labels and three sliding panels remain",
+      "reference": [
+        {
+          "text": "Referanslar",
+          "fontWeight": "700",
+          "align": "center",
+          "justify": "center",
+          "blur": "blur(24px)",
+          "background": "rgba(31, 35, 38, 0.96)"
+        },
+        {
+          "text": "Tümü",
+          "fontWeight": "700",
+          "align": "center",
+          "justify": "center",
+          "blur": "blur(24px)",
+          "background": "rgba(31, 35, 38, 0.96)"
+        }
+      ]
+    },
+    {
+      "name": "No external map or analytics requests during page visits"
+    }
+  ],
+  "externalRequests": []
+}

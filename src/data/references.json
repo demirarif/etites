@@ -1,0 +1,342 @@
+[
+ {
+  "name": "TRT",
+  "group": "kurum",
+  "src": "/referanslar/trt-logo.png",
+  "mask": "/referanslar/trt-logo-maske.png",
+  "w": 105,
+  "h": 39,
+  "aspect": 2.688,
+  "coverage": 0.511
+ },
+ {
+  "name": "AselsanNet",
+  "group": "kurum",
+  "src": "/referanslar/aselsannet.png",
+  "mask": "/referanslar/aselsannet-maske.png",
+  "w": 142,
+  "h": 38,
+  "aspect": 3.774,
+  "coverage": 0.302
+ },
+ {
+  "name": "Türk Kızılay",
+  "group": "kurum",
+  "src": "/referanslar/turk-kizilay.png",
+  "mask": "/referanslar/turk-kizilay-maske.png",
+  "w": 118,
+  "h": 58,
+  "aspect": 2.01,
+  "coverage": 0.17
+ },
+ {
+  "name": "Arabica Coffee House",
+  "group": "marka",
+  "src": "/referanslar/arabica-coffee.png",
+  "mask": "/referanslar/arabica-coffee-maske.png",
+  "w": 153,
+  "h": 37,
+  "aspect": 4.11,
+  "coverage": 0.264
+ },
+ {
+  "name": "GYMFIT",
+  "group": "marka",
+  "src": "/referanslar/gym-fit.png",
+  "mask": "/referanslar/gym-fit-maske.png",
+  "w": 161,
+  "h": 30,
+  "aspect": 5.31,
+  "coverage": 0.362
+ },
+ {
+  "name": "Simit Teknesi",
+  "group": "marka",
+  "src": "/referanslar/simit-teknesi.png",
+  "mask": "/referanslar/simit-teknesi-maske.png",
+  "w": 86,
+  "h": 64,
+  "aspect": 1.339,
+  "coverage": 0.242
+ },
+ {
+  "name": "Piano Dental Clinic",
+  "group": "marka",
+  "src": "/referanslar/piano-dental.png",
+  "mask": "/referanslar/piano-dental-maske.png",
+  "w": 118,
+  "h": 58,
+  "aspect": 2.04,
+  "coverage": 0.133
+ },
+ {
+  "name": "Esjim Sports",
+  "group": "marka",
+  "src": "/referanslar/esjim.png",
+  "mask": "/referanslar/esjim-maske.png",
+  "w": 160,
+  "h": 42,
+  "aspect": 3.785,
+  "coverage": 0.191
+ },
+ {
+  "name": "Point 312",
+  "group": "marka",
+  "src": "/referanslar/point-312-logo.png",
+  "mask": "/referanslar/point-312-logo-maske.png",
+  "w": 97,
+  "h": 39,
+  "aspect": 2.5,
+  "coverage": 0.81
+ },
+ {
+  "name": "Telsam Telekom",
+  "group": "sirket",
+  "src": "/referanslar/telsam-telekom.png",
+  "mask": "/referanslar/telsam-telekom-maske.png",
+  "w": 164,
+  "h": 37,
+  "aspect": 4.448,
+  "coverage": 0.235
+ },
+ {
+  "name": "Sestek",
+  "group": "sirket",
+  "src": "/referanslar/sestek-bilisim.png",
+  "mask": "/referanslar/sestek-bilisim-maske.png",
+  "w": 164,
+  "h": 31,
+  "aspect": 5.263,
+  "coverage": 0.333
+ },
+ {
+  "name": "Dekom",
+  "group": "sirket",
+  "src": "/referanslar/dekom.png",
+  "mask": "/referanslar/dekom-maske.png",
+  "w": 143,
+  "h": 39,
+  "aspect": 3.704,
+  "coverage": 0.281
+ },
+ {
+  "name": "EMT Electronics",
+  "group": "sirket",
+  "src": "/referanslar/emt-elektronik.png",
+  "mask": "/referanslar/emt-elektronik-maske.png",
+  "w": 96,
+  "h": 54,
+  "aspect": 1.784,
+  "coverage": 0.318
+ },
+ {
+  "name": "IMER Group",
+  "group": "sirket",
+  "src": "/referanslar/imer-grup.png",
+  "mask": "/referanslar/imer-grup-maske.png",
+  "w": 116,
+  "h": 37,
+  "aspect": 3.141,
+  "coverage": 0.478
+ },
+ {
+  "name": "Loft Enerji",
+  "group": "sirket",
+  "src": "/referanslar/loft-enerji.png",
+  "mask": "/referanslar/loft-enerji-maske.png",
+  "w": 124,
+  "h": 56,
+  "aspect": 2.23,
+  "coverage": 0.105
+ },
+ {
+  "name": "Yiğit Bobinaj",
+  "group": "sirket",
+  "src": "/referanslar/tigit-bobinaj.png",
+  "mask": "/referanslar/tigit-bobinaj-maske.png",
+  "w": 115,
+  "h": 58,
+  "aspect": 1.98,
+  "coverage": 0.197
+ },
+ {
+  "name": "Dorçe Prefabrik",
+  "group": "yapi",
+  "src": "/referanslar/dorce-logo.png",
+  "mask": "/referanslar/dorce-logo-maske.png",
+  "w": 121,
+  "h": 42,
+  "aspect": 2.871,
+  "coverage": 0.337
+ },
+ {
+  "name": "Bayraktar İnşaat",
+  "group": "yapi",
+  "src": "/referanslar/bayraktar-insaat.png",
+  "mask": "/referanslar/bayraktar-insaat-maske.png",
+  "w": 158,
+  "h": 42,
+  "aspect": 3.788,
+  "coverage": 0.2
+ },
+ {
+  "name": "Pekhan İnşaat",
+  "group": "yapi",
+  "src": "/referanslar/pekhan.png",
+  "mask": "/referanslar/pekhan-maske.png",
+  "w": 143,
+  "h": 33,
+  "aspect": 4.31,
+  "coverage": 0.383
+ },
+ {
+  "name": "Zey Yapı",
+  "group": "yapi",
+  "src": "/referanslar/zey-yapi.png",
+  "mask": "/referanslar/zey-yapi-maske.png",
+  "w": 141,
+  "h": 41,
+  "aspect": 3.425,
+  "coverage": 0.26
+ },
+ {
+  "name": "Konaca Yapı",
+  "group": "yapi",
+  "src": "/referanslar/konaca-logo.png",
+  "mask": "/referanslar/konaca-logo-maske.png",
+  "w": 140,
+  "h": 41,
+  "aspect": 3.417,
+  "coverage": 0.26
+ },
+ {
+  "name": "Tataroğlu İnşaat",
+  "group": "yapi",
+  "src": "/referanslar/tataroglu-insaat.png",
+  "mask": "/referanslar/tataroglu-insaat-maske.png",
+  "w": 112,
+  "h": 61,
+  "aspect": 1.838,
+  "coverage": 0.051
+ },
+ {
+  "name": "Bayyap İnşaat",
+  "group": "yapi",
+  "src": "/referanslar/bayyapinsaat.png",
+  "mask": "/referanslar/bayyapinsaat-maske.png",
+  "w": 188,
+  "h": 30,
+  "aspect": 6.175,
+  "coverage": 0.265
+ },
+ {
+  "name": "Ankara İç Mimarlık",
+  "group": "mimar",
+  "src": "/referanslar/ankara-ic-mimarlik.png",
+  "mask": "/referanslar/ankara-ic-mimarlik-maske.png",
+  "w": 100,
+  "h": 45,
+  "aspect": 2.22,
+  "coverage": 0.428
+ },
+ {
+  "name": "Band Mimarlık",
+  "group": "mimar",
+  "src": "/referanslar/band-mimarlik.png",
+  "mask": "/referanslar/band-mimarlik-maske.png",
+  "w": 92,
+  "h": 64,
+  "aspect": 1.434,
+  "coverage": 0.234
+ },
+ {
+  "name": "PlanB Mimarlık",
+  "group": "mimar",
+  "src": "/referanslar/planb-partner.png",
+  "mask": "/referanslar/planb-partner-maske.png",
+  "w": 96,
+  "h": 44,
+  "aspect": 2.17,
+  "coverage": 0.479
+ },
+ {
+  "name": "P.Sign Mimarlık",
+  "group": "mimar",
+  "src": "/referanslar/p-sing-mimarlik.png",
+  "mask": "/referanslar/p-sing-mimarlik-maske.png",
+  "w": 126,
+  "h": 51,
+  "aspect": 2.479,
+  "coverage": 0.209
+ },
+ {
+  "name": "Beluga Mimarlık",
+  "group": "mimar",
+  "src": "/referanslar/beluga-mimarlik.png",
+  "mask": "/referanslar/beluga-mimarlik-maske.png",
+  "w": 52,
+  "h": 64,
+  "aspect": 0.82,
+  "coverage": 0.606
+ },
+ {
+  "name": "Move Interior Design",
+  "group": "mimar",
+  "src": "/referanslar/move-mimarlik.png",
+  "mask": "/referanslar/move-mimarlik-maske.png",
+  "w": 116,
+  "h": 50,
+  "aspect": 2.302,
+  "coverage": 0.256
+ },
+ {
+  "name": "MK Mimarlık",
+  "group": "mimar",
+  "src": "/referanslar/mehmet-karaman-mimarik.png",
+  "mask": "/referanslar/mehmet-karaman-mimarik-maske.png",
+  "w": 69,
+  "h": 54,
+  "aspect": 1.28,
+  "coverage": 0.723
+ },
+ {
+  "name": "FDY Mimarlık",
+  "group": "mimar",
+  "src": "/referanslar/fdy-mimarlik.png",
+  "mask": "/referanslar/fdy-mimarlik-maske.png",
+  "w": 117,
+  "h": 46,
+  "aspect": 2.551,
+  "coverage": 0.299
+ },
+ {
+  "name": "Alper Aksoy Mimarlık",
+  "group": "mimar",
+  "src": "/referanslar/alper-aksoy-mimarlik.png",
+  "mask": "/referanslar/alper-aksoy-mimarlik-maske.png",
+  "w": 122,
+  "h": 38,
+  "aspect": 3.234,
+  "coverage": 0.413
+ },
+ {
+  "name": "ALZ Mühendislik",
+  "group": "mimar",
+  "src": "/referanslar/alz-partner.png",
+  "mask": "/referanslar/alz-partner-maske.png",
+  "w": 151,
+  "h": 46,
+  "aspect": 3.307,
+  "coverage": 0.177
+ },
+ {
+  "name": "Pasifik Mühendislik",
+  "group": "mimar",
+  "src": "/referanslar/pasifik-muhendislik.png",
+  "mask": "/referanslar/pasifik-muhendislik-maske.png",
+  "w": 151,
+  "h": 39,
+  "aspect": 3.906,
+  "coverage": 0.257
+ }
+]

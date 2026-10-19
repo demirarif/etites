@@ -1,0 +1,2897 @@
+{
+ "stats": {
+  "projects": 265,
+  "cities": 47,
+  "countries": 3,
+  "since": 2013,
+  "arabicaBranches": 137
+ },
+ "sectors": [
+  {
+   "key": "kamu-savunma",
+   "label": "Kamu ve Savunma"
+  },
+  {
+   "key": "ofis-plaza",
+   "label": "Ofis ve Plaza"
+  },
+  {
+   "key": "restoran-kafe",
+   "label": "Restoran ve Kafe"
+  },
+  {
+   "key": "magaza-avm",
+   "label": "Mağaza ve AVM"
+  },
+  {
+   "key": "saglik-spor",
+   "label": "Sağlık ve Spor"
+  },
+  {
+   "key": "endustri-enerji",
+   "label": "Endüstri ve Enerji"
+  },
+  {
+   "key": "konut-villa",
+   "label": "Konut ve Villa"
+  }
+ ],
+ "systems": [
+  {
+   "key": "vrf",
+   "label": "VRF Klima",
+   "service": "vrf-klima-sistemleri"
+  },
+  {
+   "key": "havalandirma",
+   "label": "Havalandırma",
+   "service": "havalandirma-sistemleri"
+  },
+  {
+   "key": "isitma",
+   "label": "Isıtma",
+   "service": "isitma-ve-sogutma-sistemleri"
+  },
+  {
+   "key": "sogutma",
+   "label": "Soğutma",
+   "service": "isitma-ve-sogutma-sistemleri"
+  },
+  {
+   "key": "sihhi",
+   "label": "Sıhhi Tesisat",
+   "service": "sihhi-tesisat"
+  },
+  {
+   "key": "yangin",
+   "label": "Yangın Tesisatı",
+   "service": "yangin-tesisati"
+  },
+  {
+   "key": "otomasyon",
+   "label": "Otomasyon",
+   "service": "otomasyon-sistemleri"
+  },
+  {
+   "key": "kazan",
+   "label": "Kazan Dairesi",
+   "service": "kazan-dairesi-ve-isi-merkezleri"
+  }
+ ],
+ "projects": [
+  {
+   "slug": "yda-center-453-ve-454-no-lu-ofisler",
+   "title": "YDA Center 453 ve 454 No'lu Ofisler",
+   "legacyUrl": "/yda-center-no-453-ve-454-ofis-projesi/",
+   "year": 2021,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "vrf",
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "aselsan-mtal",
+   "title": "ASELSAN MTAL",
+   "legacyUrl": "/aselsan-mtal-projesi/",
+   "year": 2021,
+   "city": "Ankara",
+   "sector": "kamu-savunma",
+   "systems": [
+    "vrf",
+    "havalandirma"
+   ],
+   "images": []
+  },
+  {
+   "slug": "yda-center-141-no-lu-ofis",
+   "title": "YDA Center 141 No'lu Ofis",
+   "legacyUrl": "/yda-center-no141-ofis-projesi/",
+   "year": 2021,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "vrf",
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "aselsan-kazan-dairesi",
+   "title": "ASELSAN Kazan Dairesi",
+   "legacyUrl": "/aselsan-kazan-dairesi-projesi/",
+   "year": 2021,
+   "city": "Ankara",
+   "sector": "kamu-savunma",
+   "systems": [
+    "kazan"
+   ],
+   "images": []
+  },
+  {
+   "slug": "aydin-sehir-hastanesi-konteyner-mobilizasyon-klima-tesisati",
+   "title": "Aydın Şehir Hastanesi Konteyner Mobilizasyon Klima Tesisatı",
+   "legacyUrl": "/aydin-sehir-hastanesi-konteyner-mobilizasyon-projesi/",
+   "year": 2021,
+   "city": "Aydın",
+   "sector": "kamu-savunma",
+   "systems": [
+    "vrf"
+   ],
+   "images": []
+  },
+  {
+   "slug": "rivo-guvenlik-mersin-bolge-ofisi",
+   "title": "Rivo Güvenlik Mersin Bölge Ofisi",
+   "legacyUrl": "/rivo-guvenlik-sistemleri-mersin-bolge-subesi-projesi/",
+   "year": 2021,
+   "city": "Mersin",
+   "sector": "ofis-plaza",
+   "systems": [
+    "vrf"
+   ],
+   "images": []
+  },
+  {
+   "slug": "caffe-di-toee-beker-plaza-subesi",
+   "title": "Caffè Di Toeè Beker Plaza Şubesi",
+   "legacyUrl": "/caffe-di-toee-beker-plaza-subesi-projesi/",
+   "year": 2021,
+   "city": "Ankara",
+   "sector": "restoran-kafe",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "caffe-di-toee-besa-kule-subesi",
+   "title": "Caffè Di Toeè Besa Kule Şubesi",
+   "legacyUrl": "/caffe-di-toee-besa-kule-subesi-projesi/",
+   "year": 2021,
+   "city": "Ankara",
+   "sector": "restoran-kafe",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "dorce-prefabrik-fabrikasi",
+   "title": "Dorçe Prefabrik Fabrikası",
+   "legacyUrl": "/dorce-prefabrik-fabrika-projesi/",
+   "year": 2021,
+   "city": "Ankara",
+   "sector": "endustri-enerji",
+   "systems": [
+    "kazan"
+   ],
+   "images": []
+  },
+  {
+   "slug": "moment-bestepe-ofisi",
+   "title": "Moment Beştepe Ofisi",
+   "legacyUrl": "/moment-bestepe-ofis-projesi/",
+   "year": 2021,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "vrf",
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "trt-turk-binasi",
+   "title": "TRT Türk Binası",
+   "legacyUrl": "/trt-turk-binasi-projesi/",
+   "year": 2021,
+   "city": "Ankara",
+   "sector": "kamu-savunma",
+   "systems": [
+    "havalandirma"
+   ],
+   "images": []
+  },
+  {
+   "slug": "maxivedik-is-merkezi-ofisi",
+   "title": "Maxivedik İş Merkezi Ofisi",
+   "legacyUrl": "/maxivedik-ofis-projesi/",
+   "year": 2021,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "hekimkoy-villalari",
+   "title": "Hekimköy Villaları",
+   "legacyUrl": "/hekimkoy-villalari-projesi/",
+   "year": 2021,
+   "city": "Ankara",
+   "sector": "konut-villa",
+   "systems": [
+    "havalandirma",
+    "sihhi",
+    "kazan"
+   ],
+   "images": []
+  },
+  {
+   "slug": "fabrika-kazan-dairesi",
+   "title": "Fabrika Kazan Dairesi",
+   "legacyUrl": "/kazan-fabrika-projesi/",
+   "year": 2021,
+   "city": "Ankara",
+   "sector": "endustri-enerji",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "yangin",
+    "kazan"
+   ],
+   "images": []
+  },
+  {
+   "slug": "enbati-gayrimenkul-ofisi",
+   "title": "Enbatı Gayrimenkul Ofisi",
+   "legacyUrl": "/enbati-gayrimenkul-ofis-projesi/",
+   "year": 2021,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "rivo-guvenlik-istanbul-bolge-ofisi",
+   "title": "Rivo Güvenlik İstanbul Bölge Ofisi",
+   "legacyUrl": "/rivo-guvenlik-sistemleri-istanbul-bolge-subesi-projesi/",
+   "year": 2021,
+   "city": "İstanbul",
+   "sector": "ofis-plaza",
+   "systems": [
+    "vrf"
+   ],
+   "images": []
+  },
+  {
+   "slug": "yigit-bobinaj-ofisi-ostim",
+   "title": "Yiğit Bobinaj Ofisi, OSTİM",
+   "legacyUrl": "/ostim-yigit-bobinaj-ofis-projesi/",
+   "year": 2021,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "1071-ankara-ofisi",
+   "title": "1071 Ankara Ofisi",
+   "legacyUrl": "/1071-ankara-ofis-projesi/",
+   "year": 2021,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "gym-art-spor-merkezi",
+   "title": "Gym Art Spor Merkezi",
+   "legacyUrl": "/gym-art-spor-merkezi-projesi/",
+   "year": 2021,
+   "city": "Ankara",
+   "sector": "saglik-spor",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "ostim-prestij-d-blok-55-no-lu-ofis",
+   "title": "OSTİM Prestij D Blok 55 No'lu Ofis",
+   "legacyUrl": "/ostim-prestij-d-blok-55-numara-ofis-projesi/",
+   "year": 2021,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "dr-ali-sahan-klinigi",
+   "title": "Dr. Ali Şahan Kliniği",
+   "legacyUrl": "/dr-ali-sahan-klinik-projesi/",
+   "year": 2021,
+   "city": "Ankara",
+   "sector": "saglik-spor",
+   "systems": [
+    "vrf",
+    "havalandirma",
+    "sogutma",
+    "sihhi"
+   ],
+   "images": []
+  },
+  {
+   "slug": "ovecler-ofisi",
+   "title": "Öveçler Ofisi",
+   "legacyUrl": "/ovecler-ofis-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "aselsannet-isi-merkezi",
+   "title": "AselsanNet Isı Merkezi",
+   "legacyUrl": "/aselsannet-isi-merkezi-projesi/",
+   "year": 2020,
+   "city": "Hakkari",
+   "sector": "kamu-savunma",
+   "systems": [
+    "havalandirma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "regnum-sky-tower-ofisi",
+   "title": "Regnum Sky Tower Ofisi",
+   "legacyUrl": "/regnum-sky-tower-ofis-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2888-650.webp",
+     "thumb": "/media/2888-650.webp",
+     "w": 650,
+     "h": 360
+    }
+   ]
+  },
+  {
+   "slug": "cakiroglu-ofisi",
+   "title": "Çakıroğlu Ofisi",
+   "legacyUrl": "/cakiroglu-ofis-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "hm-commerce-center-dukkani-ostim",
+   "title": "HM Commerce Center Dükkânı, OSTİM",
+   "legacyUrl": "/ostim-hm-commerce-center-ofis-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "magaza-avm",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "yelken-plaza-ofisi",
+   "title": "Yelken Plaza Ofisi",
+   "legacyUrl": "/yelken-plaza-ofis-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "pekhan-insaat-is-merkezi-mekanik-ve-dogalgaz-donusumu",
+   "title": "Pekhan İnşaat İş Merkezi Mekanik ve Doğalgaz Dönüşümü",
+   "legacyUrl": "/pekhan-insaat-is-merkezinin-mekanik-ve-dogalgaz-donusum-projesi/",
+   "year": 2020,
+   "city": "Bitlis",
+   "sector": "ofis-plaza",
+   "systems": [
+    "kazan"
+   ],
+   "images": []
+  },
+  {
+   "slug": "officium-beytepe-ofisi",
+   "title": "Officium Beytepe Ofisi",
+   "legacyUrl": "/officium-beytepe-ofis-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "aselsannet-guvercinlik-ag-yonetim-merkezi",
+   "title": "AselsanNet Güvercinlik Ağ Yönetim Merkezi",
+   "legacyUrl": "/aselsannet-guvercinlik-ag-yonetim-merkezi-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "kamu-savunma",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "jandarma-havacilik-baskanligi-helikopter-hangarlari",
+   "title": "Jandarma Havacılık Başkanlığı Helikopter Hangarları",
+   "legacyUrl": "/jandarma-havacilik-baskanligi-helikopter-hangarlar-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "kamu-savunma",
+   "systems": [
+    "isitma"
+   ],
+   "images": []
+  },
+  {
+   "slug": "via-green-ofisi",
+   "title": "Via Green Ofisi",
+   "legacyUrl": "/via-green-ofis-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "emniyet-genel-mudurlugu-haberlesme-daire-baskanligi",
+   "title": "Emniyet Genel Müdürlüğü Haberleşme Daire Başkanlığı",
+   "legacyUrl": "/ankara-emniyet-genel-mudurlugu-haberlesme-daire-baskanligi-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "kamu-savunma",
+   "systems": [
+    "havalandirma",
+    "kazan"
+   ],
+   "images": []
+  },
+  {
+   "slug": "dekom-telekomunikasyon-sivi-yakit-tanki",
+   "title": "Dekom Telekomünikasyon Sıvı Yakıt Tankı",
+   "legacyUrl": "/dekom-telekominikasyon-a-s-sivi-yakit-tanki-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "endustri-enerji",
+   "systems": [
+    "kazan"
+   ],
+   "images": []
+  },
+  {
+   "slug": "ostim-prestij-ofisi",
+   "title": "OSTİM Prestij Ofisi",
+   "legacyUrl": "/ostim-prestij-ofis-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "vrf",
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "dr-ekrem-civas-klinigi-koc-kuleler",
+   "title": "Dr. Ekrem Civas Kliniği, Koç Kuleler",
+   "legacyUrl": "/koc-kuleler-doktor-ekrem-civas-klinigi-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "saglik-spor",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "bina-mekanik-tesisati",
+   "title": "Bina Mekanik Tesisatı",
+   "legacyUrl": "/bina-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "konut-villa",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "vantage-umitkoy-konutlari-vrf-sistemi",
+   "title": "Vantage Ümitköy Konutları VRF Sistemi",
+   "legacyUrl": "/vantage-umitkoy-konut-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "konut-villa",
+   "systems": [
+    "vrf"
+   ],
+   "images": []
+  },
+  {
+   "slug": "fabrika-mekanik-tesisati",
+   "title": "Fabrika Mekanik Tesisatı",
+   "legacyUrl": "/fabrika-mekanik-tesisat-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "endustri-enerji",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "villa-yerden-isitma-uygulamasi",
+   "title": "Villa Yerden Isıtma Uygulaması",
+   "legacyUrl": "/villa-yerden-isitma-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "konut-villa",
+   "systems": [
+    "isitma",
+    "kazan"
+   ],
+   "images": []
+  },
+  {
+   "slug": "sestek-ofisi-mahall-ankara",
+   "title": "Sestek Ofisi, Mahall Ankara",
+   "legacyUrl": "/mahall-ankarada-sestek-icin-ofis-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "1071-usta-insaat-86-ve-115-no-lu-ofis",
+   "title": "1071 Usta İnşaat 86 ve 115 No'lu Ofis",
+   "legacyUrl": "/1071-usta-i%cc%87ns%cc%a7aat-86-ve-115-nolu-ofis-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "mus-malazgirt-muzesi",
+   "title": "Muş Malazgirt Müzesi",
+   "legacyUrl": "/mus-malazgirt-muzesi-mekanik-tesisat/",
+   "year": 2020,
+   "city": "Muş",
+   "sector": "kamu-savunma",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "1071-usta-insaat-121-ve-122-no-lu-ofisler",
+   "title": "1071 Usta İnşaat 121 ve 122 No'lu Ofisler",
+   "legacyUrl": "/1071-usta-insaatta-121-ve-122-numarali-ofis-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "villa-mekanik-tesisati",
+   "title": "Villa Mekanik Tesisatı",
+   "legacyUrl": "/villa-mekanik-tesisat-sistemi-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "konut-villa",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "wcollection-ve-vakko-butik",
+   "title": "WCollection ve Vakko Butik",
+   "legacyUrl": "/wcollection-ve-vakko-butikin-mekanik-tesisat-projesi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "magaza-avm",
+   "systems": [
+    "havalandirma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "bayar-enerji-isi-merkezi",
+   "title": "Bayar Enerji Isı Merkezi",
+   "legacyUrl": "/bayar-enerji-isi-merkezi-projesi/",
+   "year": 2020,
+   "city": "Hakkari",
+   "sector": "endustri-enerji",
+   "systems": [
+    "havalandirma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "vakko-ankara-magazasi-2-000-m2",
+   "title": "Vakko Ankara Mağazası, 2.000 m²",
+   "legacyUrl": "/ankarada-vakkonun-2000-m%c2%b2lik-magazasinin-mekanik-tesisat-projesi-tamamlandi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "magaza-avm",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "koc-kuleler-ofisi",
+   "title": "Koç Kuleler Ofisi",
+   "legacyUrl": "/koc-kulelerdeki-ofis-projesi-icinkoc-kulelerdeki-ofis-icin-mekanik-tesisat-projesi-tamamlandi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2997-960.webp",
+     "thumb": "/media/2997-760.webp",
+     "w": 960,
+     "h": 960
+    }
+   ]
+  },
+  {
+   "slug": "ece-kumpir-tantuni-vega-subayevleri-avm",
+   "title": "Ece Kumpir Tantuni, Vega Subayevleri AVM",
+   "legacyUrl": "/nata-subayevleri-avm-ece-kumpir-tantuni-mekanik-tesisat-calismalari-tamamlandi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "restoran-kafe",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "ozciftay-insaat-yonetim-ofisi",
+   "title": "Özçiftay İnşaat Yönetim Ofisi",
+   "legacyUrl": "/ozciftay-insaat-yonetim-ofisi-icin-mekanik-tesisat-projesini-tamamladik/",
+   "year": 2020,
+   "city": null,
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "mahall-ankara-137-no-lu-ofis",
+   "title": "Mahall Ankara 137 No'lu Ofis",
+   "legacyUrl": "/mahall-ankarada-137-numarali-ofisin-mekanik-tesisat-projesi-tamamlandi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "via-flat-ofisi",
+   "title": "Via Flat Ofisi",
+   "legacyUrl": "/via-flatteki-ofis-icin-mekanik-tesisat-islerine-basladik/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "telsam-telekom-merkez-ofisi-vrf-sistemi",
+   "title": "Telsam Telekom Merkez Ofisi VRF Sistemi",
+   "legacyUrl": "/telsam-telekom-merkez-ofisi-vrf-klima-sistemleri-projesi-tamamlandi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "vrf"
+   ],
+   "images": []
+  },
+  {
+   "slug": "mus-valiligi-kafe-ve-misafirhanesi",
+   "title": "Muş Valiliği Kafe ve Misafirhanesi",
+   "legacyUrl": "/mus-valiligine-bagli-merkez-koylere-hizmet-goturme-birligi-kafe-ve-misafirhanesi-icin-mekanik-tesisat-projesi-tamamlandi/",
+   "year": 2020,
+   "city": "Muş",
+   "sector": "kamu-savunma",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "lider-plastik-fabrikasi",
+   "title": "Lider Plastik Fabrikası",
+   "legacyUrl": "/lider-plastik-fabrikasi-havalandirma-projesine-basladik/",
+   "year": 2020,
+   "city": null,
+   "sector": "endustri-enerji",
+   "systems": [
+    "havalandirma"
+   ],
+   "images": []
+  },
+  {
+   "slug": "vakko-cepa-avm",
+   "title": "Vakko, Cepa AVM",
+   "legacyUrl": "/vakkonun-cepa-avm-subesi-mekanik-tesisat-projesi-tamamlandi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "magaza-avm",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "besa-kule-b28-ofisi",
+   "title": "Besa Kule B28 Ofisi",
+   "legacyUrl": "/b28-numarali-ofisin-mekanik-tesisat-isleri-tamamlandi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "odtu-teknokent-ofisi",
+   "title": "ODTÜ Teknokent Ofisi",
+   "legacyUrl": "/odtu-teknokentteki-ofis-projesi-tamamlandi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "besa-kule-b55-ofisi",
+   "title": "Besa Kule B55 Ofisi",
+   "legacyUrl": "/besa-kulede-b55-numarali-ofisin-mekanik-tesisat-isleri-tamamlandi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "mira-ofis-beytepe",
+   "title": "Mira Ofis Beytepe",
+   "legacyUrl": "/mira-ofis-beytepede-mekanik-tesisat-projesi-tamamlandi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "maidan-ankara-ofisi",
+   "title": "Maidan Ankara Ofisi",
+   "legacyUrl": "/maidan-ankarada-ofisin-mekanik-tesisat-projesi-tamamlandi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "prestige-accessories-podium-avm",
+   "title": "Prestige Accessories, Podium AVM",
+   "legacyUrl": "/podium-avmde-acilan-prestige-accessoriesin-mekanik-tesisat-projesi-tamamlandi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "magaza-avm",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "dorce-prefabrik-yapi-fabrikasi-havalandirmasi",
+   "title": "Dorçe Prefabrik Yapı Fabrikası Havalandırması",
+   "legacyUrl": "/dorce-prefabrik-yapi-fabrikasinin-havalandirma-projesi-tamamlandi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "endustri-enerji",
+   "systems": [
+    "havalandirma"
+   ],
+   "images": []
+  },
+  {
+   "slug": "gemak-gida-havalandirma-sistemi",
+   "title": "Gemak Gıda Havalandırma Sistemi",
+   "legacyUrl": "/gemak-gidanin-havalandirma-projesi-tamamlandi/",
+   "year": 2020,
+   "city": null,
+   "sector": "endustri-enerji",
+   "systems": [
+    "havalandirma"
+   ],
+   "images": []
+  },
+  {
+   "slug": "btk-milli-monitor-merkezi",
+   "title": "BTK Milli Monitör Merkezi",
+   "legacyUrl": "/btk-monitor-merkezi-mekanik-tesisat-projesi-tamamlandi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "kamu-savunma",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/3525-1600.webp",
+     "thumb": "/media/3525-760.webp",
+     "w": 1600,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "slug": "besa-kule-ofisi",
+   "title": "Besa Kule Ofisi",
+   "legacyUrl": "/besa-kule-ofis-projesinin-mekanik-tesisat-isleri-tamamlandi/",
+   "year": 2020,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/3396-900.webp",
+     "thumb": "/media/3396-760.webp",
+     "w": 900,
+     "h": 507
+    }
+   ]
+  },
+  {
+   "slug": "mahall-ankara-102-no-lu-ofis",
+   "title": "Mahall Ankara 102 No'lu Ofis",
+   "legacyUrl": "/mahall-ankarada-102-numarali-ofis-projesinin-mekanik-tesisat-isleri-tamamlandi/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "tepe-prime-ofisi",
+   "title": "Tepe Prime Ofisi",
+   "legacyUrl": "/tepe-prime-ofis-projesinin-mekanik-tesisat-isleri-tamamlandi/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/3435-1300.webp",
+     "thumb": "/media/3435-760.webp",
+     "w": 1300,
+     "h": 867
+    }
+   ]
+  },
+  {
+   "slug": "villa-vrf-sistemi",
+   "title": "Villa VRF Sistemi",
+   "legacyUrl": "/villa-projesinin-vrf-sistemlerini-tamamlandi/",
+   "year": 2019,
+   "city": null,
+   "sector": "konut-villa",
+   "systems": [
+    "vrf"
+   ],
+   "images": []
+  },
+  {
+   "slug": "aselsan-golbasi-yerleskesi-vrf-sistemi",
+   "title": "ASELSAN Gölbaşı Yerleşkesi VRF Sistemi",
+   "legacyUrl": "/aselsanin-golbasi-yerleskesi-vrf-klima-sistem-projesi/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "kamu-savunma",
+   "systems": [
+    "vrf"
+   ],
+   "images": []
+  },
+  {
+   "slug": "gymfit-taurus-avm",
+   "title": "GYMFIT Taurus AVM",
+   "legacyUrl": "/gymfitin-taurus-avm-subesinin-mekanik-tesisat-isleri-tamamlandi/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "saglik-spor",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "mahall-ankara-b-blok-123-no-lu-ofis",
+   "title": "Mahall Ankara B Blok 123 No'lu Ofis",
+   "legacyUrl": "/mahall-ankara-b-blok-no-123-ofis-projesi-mekanik-tesisat-isleri/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "gymfit-antares-avm-revizyonu",
+   "title": "GYMFIT Antares AVM Revizyonu",
+   "legacyUrl": "/antares-avmde-gymfitin-mekanik-tesisatinda-revizyon-calismasi-tamamlandi/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "saglik-spor",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/3312-1200.webp",
+     "thumb": "/media/3312-760.webp",
+     "w": 1200,
+     "h": 400
+    }
+   ]
+  },
+  {
+   "slug": "kuzu-effect",
+   "title": "Kuzu Effect",
+   "legacyUrl": "/kuzu-effectde-dukkan-projesinin-mekanik-havalandirma-tesisat-isleri-basladi/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "restoran-kafe",
+   "systems": [
+    "havalandirma"
+   ],
+   "images": [
+    {
+     "src": "/media/3318-1437.webp",
+     "thumb": "/media/3318-760.webp",
+     "w": 1437,
+     "h": 772
+    }
+   ]
+  },
+  {
+   "slug": "kara-harp-okulu-boyler-ve-akumulasyon-tanki-degisimi",
+   "title": "Kara Harp Okulu Boyler ve Akümülasyon Tankı Değişimi",
+   "legacyUrl": "/kara-harp-okulu-akumulasyon-ve-boyler-tanklarinin-degisimi-projesi/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "kamu-savunma",
+   "systems": [
+    "sihhi"
+   ],
+   "images": [
+    {
+     "src": "/media/3243-752.webp",
+     "thumb": "/media/3243-752.webp",
+     "w": 752,
+     "h": 395
+    }
+   ]
+  },
+  {
+   "slug": "prestige-accessories-acity-avm",
+   "title": "Prestige Accessories, ACity AVM",
+   "legacyUrl": "/acity-avmde-prestige-accessorienin-mekanik-tesisat-projesi-tamamlandi/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "magaza-avm",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/3229-1600.webp",
+     "thumb": "/media/3229-760.webp",
+     "w": 1600,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "slug": "guangzhou-wuyang-cin-lokantasi",
+   "title": "Guangzhou Wuyang Çin Lokantası",
+   "legacyUrl": "/guangzhou-wuyang-cin-lokantasi-mekanik-tesisat-projesi-tamamlandi/",
+   "year": 2019,
+   "city": null,
+   "sector": "restoran-kafe",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "1071-ankara-103-ve-104-no-lu-ofisler",
+   "title": "1071 Ankara 103 ve 104 No'lu Ofisler",
+   "legacyUrl": "/1071-ankarada-103-ve-104-numarali-ofislerin-mekanik-tesisat-projesi-tamamlandi/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/3160-750.webp",
+     "thumb": "/media/3160-750.webp",
+     "w": 750,
+     "h": 340
+    }
+   ]
+  },
+  {
+   "slug": "moda-cafe-panora-avm",
+   "title": "Moda Cafe, Panora AVM",
+   "legacyUrl": "/panora-avmde-moda-cafenin-mekanik-tesisat-projesi-tamamlandi/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "restoran-kafe",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/3141-650.webp",
+     "thumb": "/media/3141-650.webp",
+     "w": 650,
+     "h": 360
+    }
+   ]
+  },
+  {
+   "slug": "piano-dental-clinic",
+   "title": "Piano Dental Clinic",
+   "legacyUrl": "/piano-dental-clinic-mekanik-tesisat-isleri-tamamlandi/",
+   "year": 2019,
+   "city": null,
+   "sector": "saglik-spor",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "imer-group-aksaray-vrf-sistemi",
+   "title": "IMER Group Aksaray VRF Sistemi",
+   "legacyUrl": "/imer-groupun-aksarayda-vrf-sistemi-kurulum-isine-basladik/",
+   "year": 2019,
+   "city": "Aksaray",
+   "sector": "endustri-enerji",
+   "systems": [
+    "vrf"
+   ],
+   "images": []
+  },
+  {
+   "slug": "gymfit-next-level-4-500-m2",
+   "title": "GYMFIT Next Level, 4.500 m²",
+   "legacyUrl": "/gymfit-in-next-level-subesinin-4-500-m%c2%b2-yerin-mekanik-tesisat-islerine-basladik/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "saglik-spor",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "mahall-ankara-212-no-lu-ofis",
+   "title": "Mahall Ankara 212 No'lu Ofis",
+   "legacyUrl": "/mahall-ankarada-212-numarali-ofis-projesi-mekanik-tesisat-islerine-basladik/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2970-960.webp",
+     "thumb": "/media/2970-760.webp",
+     "w": 960,
+     "h": 960
+    }
+   ]
+  },
+  {
+   "slug": "food-lovers-mahall-ankara",
+   "title": "Food Lovers, Mahall Ankara",
+   "legacyUrl": "/mahall-ankarada-food-loversin-mekanik-tesisat-projesine-basladik/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "restoran-kafe",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/3100-1600.webp",
+     "thumb": "/media/3100-760.webp",
+     "w": 1600,
+     "h": 1200
+    }
+   ]
+  },
+  {
+   "slug": "besa-kule-gayrimenkul-ofisi",
+   "title": "Besa Kule Gayrimenkul Ofisi",
+   "legacyUrl": "/besa-kulede-gayrimenkul-ofisi-mekanik-tesisat-projesi-tamamlandi/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "avukatlik-burosu-tunus-caddesi",
+   "title": "Avukatlık Bürosu, Tunus Caddesi",
+   "legacyUrl": "/tunus-caddesinde-avukatlik-burosu-mekanik-tesisat-projesi-tamamlandi/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/3199-768.webp",
+     "thumb": "/media/3199-760.webp",
+     "w": 768,
+     "h": 960
+    }
+   ]
+  },
+  {
+   "slug": "yildiz-kule-ofisi",
+   "title": "Yıldız Kule Ofisi",
+   "legacyUrl": "/yildiz-kule-ofis-projesinin-mekanik-tesisat-islerine-basladik/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2989-960.webp",
+     "thumb": "/media/2989-760.webp",
+     "w": 960,
+     "h": 960
+    }
+   ]
+  },
+  {
+   "slug": "libra-kuleleri-ofisi",
+   "title": "Libra Kuleleri Ofisi",
+   "legacyUrl": "/libra-kulelerinde-2-ofis-projesinin-mekanik-tesisat-islerine-basladik/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "oyuncak-ve-sekerleme-magazasi-ankapark",
+   "title": "Oyuncak ve Şekerleme Mağazası, Ankapark",
+   "legacyUrl": "/ankaparkda-oyuncak-sekerleme-dukkani-mekanik-tesisat-islerini-tamamlandi/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "magaza-avm",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2933-960.webp",
+     "thumb": "/media/2933-760.webp",
+     "w": 960,
+     "h": 720
+    }
+   ]
+  },
+  {
+   "slug": "let-s-make-coffee",
+   "title": "Let's Make Coffee",
+   "legacyUrl": "/lets-make-coffeenin-mekanik-tesisat-isleri-tamamlandi/",
+   "year": 2019,
+   "city": null,
+   "sector": "restoran-kafe",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2848-960.webp",
+     "thumb": "/media/2848-760.webp",
+     "w": 960,
+     "h": 720
+    }
+   ]
+  },
+  {
+   "slug": "mahall-ankara-b-blok-185-no-lu-ofis",
+   "title": "Mahall Ankara B Blok 185 No'lu Ofis",
+   "legacyUrl": "/mahall-ankarada-b-blok-ofis-projesi-mekanik-tesisat-islerine-basladik/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2949-960.webp",
+     "thumb": "/media/2949-760.webp",
+     "w": 960,
+     "h": 720
+    }
+   ]
+  },
+  {
+   "slug": "zeppelin-pub-mahall-ankara",
+   "title": "Zeppelin Pub, Mahall Ankara",
+   "legacyUrl": "/mahall-ankarada-zepplin-pubin-mekanik-tesisat-islerine-basladik/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "restoran-kafe",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/3018-960.webp",
+     "thumb": "/media/3018-760.webp",
+     "w": 960,
+     "h": 929
+    }
+   ]
+  },
+  {
+   "slug": "mustafa-demiralp-make-up-hair-studio",
+   "title": "Mustafa Demiralp Make Up & Hair Studio",
+   "legacyUrl": "/mustafa-demiralpin-profesyonel-make-up-ve-hair-studiosunun-mekanik-tesisat-isleri-basladi/",
+   "year": 2019,
+   "city": null,
+   "sector": "magaza-avm",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2830-960.webp",
+     "thumb": "/media/2830-760.webp",
+     "w": 960,
+     "h": 960
+    }
+   ]
+  },
+  {
+   "slug": "mahall-ankara-b-blok-157-no-lu-ofis",
+   "title": "Mahall Ankara B Blok 157 No'lu Ofis",
+   "legacyUrl": "/mahall-ankarada-b-blok-157-nolu-ofisin-mekanik-tesisat-isleri-tamamlandi/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "1071-cukurambar-ofisi-usta-insaat",
+   "title": "1071 Çukurambar Ofisi, Usta İnşaat",
+   "legacyUrl": "/cukurambarda-usta-insaat-1071de-ofis-mekanik-tesisat-isleri-tamamlandi/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2816-960.webp",
+     "thumb": "/media/2816-760.webp",
+     "w": 960,
+     "h": 960
+    }
+   ]
+  },
+  {
+   "slug": "vizyon-oyuncak-ankapark",
+   "title": "Vizyon Oyuncak, Ankapark",
+   "legacyUrl": "/ankaparkta-oyuncak-dukkan-mekanik-tesisat-projesi-tamamlandi/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "magaza-avm",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2860-1080.webp",
+     "thumb": "/media/2860-760.webp",
+     "w": 1080,
+     "h": 810
+    }
+   ]
+  },
+  {
+   "slug": "mahall-ankara-ofisi-band-interior-ile",
+   "title": "Mahall Ankara Ofisi, Band Interior ile",
+   "legacyUrl": "/mahall-ankarada-band-interior-mimarlik-ile-ofis-projesine-basladik/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2589-1600.webp",
+     "thumb": "/media/2589-760.webp",
+     "w": 1920,
+     "h": 1080
+    }
+   ]
+  },
+  {
+   "slug": "vakko-butik-ankamall",
+   "title": "Vakko Butik, Ankamall",
+   "legacyUrl": "/ankamall-vakko-butik-magazasi-projesi/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "magaza-avm",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2777-1080.webp",
+     "thumb": "/media/2777-760.webp",
+     "w": 1080,
+     "h": 810
+    }
+   ]
+  },
+  {
+   "slug": "simit-teknesi-bilkent-sehir-hastanesi",
+   "title": "Simit Teknesi, Bilkent Şehir Hastanesi",
+   "legacyUrl": "/bilkent-entegre-sehir-hastanesi-simit-teknesi-projesi/",
+   "year": 2019,
+   "city": "Ankara",
+   "sector": "restoran-kafe",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2782-771.webp",
+     "thumb": "/media/2782-760.webp",
+     "w": 771,
+     "h": 581
+    }
+   ]
+  },
+  {
+   "slug": "eskisehir-osmangazi-universitesi-tip-fakultesi-hastanesi",
+   "title": "Eskişehir Osmangazi Üniversitesi Tıp Fakültesi Hastanesi",
+   "legacyUrl": "/eskisehir-osman-gazi-universitesi-tip-fakultesi-hastanesi-mekanik-tesisat-projesi/",
+   "year": 2018,
+   "city": "Eskişehir",
+   "sector": "kamu-savunma",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2495-1080.webp",
+     "thumb": "/media/2495-760.webp",
+     "w": 1080,
+     "h": 810
+    }
+   ]
+  },
+  {
+   "slug": "turkerler-mahall-ankara-havalandirma-tadilati",
+   "title": "Türkerler Mahall Ankara Havalandırma Tadilatı",
+   "legacyUrl": "/turkerler-mahall-ankara-havalandirma-tadilati/",
+   "year": 2018,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma"
+   ],
+   "images": [
+    {
+     "src": "/media/2512-1600.webp",
+     "thumb": "/media/2512-760.webp",
+     "w": 1920,
+     "h": 1080
+    }
+   ]
+  },
+  {
+   "slug": "china-bloom-galleria-avm",
+   "title": "China Bloom, Galleria AVM",
+   "legacyUrl": "/china-bloom-projemiz-tamamlandi/",
+   "year": 2018,
+   "city": "Ankara",
+   "sector": "restoran-kafe",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2447-1080.webp",
+     "thumb": "/media/2447-760.webp",
+     "w": 1080,
+     "h": 810
+    }
+   ]
+  },
+  {
+   "slug": "minyon-atakule",
+   "title": "Minyon, Atakule",
+   "legacyUrl": "/atakule-minyon-projesi/",
+   "year": 2018,
+   "city": "Ankara",
+   "sector": "magaza-avm",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2430-960.webp",
+     "thumb": "/media/2430-760.webp",
+     "w": 960,
+     "h": 720
+    }
+   ]
+  },
+  {
+   "slug": "ankara-yht-gar-balo-salonu",
+   "title": "Ankara YHT Gar Balo Salonu",
+   "legacyUrl": "/yht-gar-balo-salonu-mekanik-tesisat-isleri-tamamlandi/",
+   "year": 2018,
+   "city": "Ankara",
+   "sector": "kamu-savunma",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "tpao-mekanik-tesisat-bakimi",
+   "title": "TPAO Mekanik Tesisat Bakımı",
+   "legacyUrl": "/turkiye-petrolleri-bakim-calismasi/",
+   "year": 2018,
+   "city": null,
+   "sector": "kamu-savunma",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "dent-group-cayyolu-subesi",
+   "title": "Dent Group Çayyolu Şubesi",
+   "legacyUrl": "/dent-group-15-subesi-ankara-cayyolu/",
+   "year": 2018,
+   "city": "Ankara",
+   "sector": "saglik-spor",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "jandarma-dikim-evi",
+   "title": "Jandarma Dikim Evi",
+   "legacyUrl": "/jandarma-dikim-evi-askeriye-havalandirma-projesi/",
+   "year": 2018,
+   "city": null,
+   "sector": "kamu-savunma",
+   "systems": [
+    "havalandirma"
+   ],
+   "images": [
+    {
+     "src": "/media/2535-1080.webp",
+     "thumb": "/media/2535-760.webp",
+     "w": 1080,
+     "h": 810
+    }
+   ]
+  },
+  {
+   "slug": "elmadag-devlet-hastanesi-havalandirma-bakimi",
+   "title": "Elmadağ Devlet Hastanesi Havalandırma Bakımı",
+   "legacyUrl": "/elmadag-devlet-hastanesi-bakim-ve-onarim-isleri-tamamlandi/",
+   "year": 2018,
+   "city": "Ankara",
+   "sector": "kamu-savunma",
+   "systems": [
+    "havalandirma"
+   ],
+   "images": [
+    {
+     "src": "/media/2569-800.webp",
+     "thumb": "/media/2569-760.webp",
+     "w": 800,
+     "h": 455
+    }
+   ]
+  },
+  {
+   "slug": "mahall-ankara-f07-kurumsal-ofisi",
+   "title": "Mahall Ankara F07 Kurumsal Ofisi",
+   "legacyUrl": "/mahall-ankara-f-blok-f07de-kurumsal-ofis-projesi/",
+   "year": 2018,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2589-1600.webp",
+     "thumb": "/media/2589-760.webp",
+     "w": 1920,
+     "h": 1080
+    }
+   ]
+  },
+  {
+   "slug": "mahall-ankara-satis-ofisi",
+   "title": "Mahall Ankara Satış Ofisi",
+   "legacyUrl": "/mahall-ankaranin-satis-ofisi/",
+   "year": 2018,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "mahall-ankara-ofisi",
+   "title": "Mahall Ankara Ofisi",
+   "legacyUrl": "/mahall-ankarada-tamamlanan-ofis-calismalari/",
+   "year": 2018,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2257-1241.webp",
+     "thumb": "/media/2257-760.webp",
+     "w": 1241,
+     "h": 822
+    }
+   ]
+  },
+  {
+   "slug": "turk-oftalmoloji-dernegi-havalandirma-ve-acik-tavan-uygulamasi",
+   "title": "Türk Oftalmoloji Derneği Havalandırma ve Açık Tavan Uygulaması",
+   "legacyUrl": "/turk-oftalmoloji-dernegi-havalandirma-tesisati-ve-acik-tavan-uygulamasi/",
+   "year": 2018,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma"
+   ],
+   "images": [
+    {
+     "src": "/media/2247-960.webp",
+     "thumb": "/media/2247-760.webp",
+     "w": 960,
+     "h": 960
+    }
+   ]
+  },
+  {
+   "slug": "cin-seddi-restaurant-mahall-ankara",
+   "title": "Çin Seddi Restaurant, Mahall Ankara",
+   "legacyUrl": "/mahall-ankara-cin-seddi-restaurant-projesi/",
+   "year": 2018,
+   "city": "Ankara",
+   "sector": "restoran-kafe",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "mahall-ankara-e-blok-45-no-lu-ofis",
+   "title": "Mahall Ankara E Blok 45 No'lu Ofis",
+   "legacyUrl": "/mahall-ankara-e-blok-no-45-ofis-calismasi/",
+   "year": 2018,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2242-960.webp",
+     "thumb": "/media/2242-760.webp",
+     "w": 960,
+     "h": 960
+    }
+   ]
+  },
+  {
+   "slug": "maidan-ankara-move-ic-mimarlik-ile",
+   "title": "Maidan Ankara, Move İç Mimarlık ile",
+   "legacyUrl": "/turkiyenin-en-iyi-mimarlik-firmasi-move-mimarlik-ile-maidan-ankara-projesinde-5-adet-ofisin-mekanik-tesisat-islerine-basladik/",
+   "year": 2017,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2181-1600.webp",
+     "thumb": "/media/2181-760.webp",
+     "w": 1600,
+     "h": 940
+    }
+   ]
+  },
+  {
+   "slug": "mahall-ankara-move-ic-mimarlik-ile",
+   "title": "Mahall Ankara, Move İç Mimarlık ile",
+   "legacyUrl": "/turkiyenin-en-iyi-mimarlik-firmasi-move-mimarlik-ile-mahall-ankara-projesinde-4-adet-ofisin-mekanik-tesisat-islerine-basladik/",
+   "year": 2017,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "tco-pmt-ofis-konteyner-tipi-isitma-sistemi",
+   "title": "TCO PMT Ofis Konteyner Tipi Isıtma Sistemi",
+   "legacyUrl": "/tcopmt-ofis-konteyner-tipi-isitma-sitemi-2017/",
+   "year": 2017,
+   "city": null,
+   "sector": "endustri-enerji",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "tco-main-canteen-konteyner-tipi-isitma-sistemi",
+   "title": "TCO Main Canteen Konteyner Tipi Isıtma Sistemi",
+   "legacyUrl": "/tcomain-canteen-konteyner-tipi-isitma-sistemi-2017/",
+   "year": 2017,
+   "city": null,
+   "sector": "endustri-enerji",
+   "systems": [
+    "isitma"
+   ],
+   "images": []
+  },
+  {
+   "slug": "odtu-hazirlik-isi-santrali-buhar-boru-hatti",
+   "title": "ODTÜ Hazırlık Isı Santrali Buhar Boru Hattı",
+   "legacyUrl": "/odtu-hazirlik-isi-santrali-ve-cevre-muh-rektorluk-kavsagi-buhar-borularina-yalitim-yapilmasi-2017/",
+   "year": 2017,
+   "city": "Ankara",
+   "sector": "kamu-savunma",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "hayat-sebla-evleri-sebeke-suyu-hatti-ve-su-deposu",
+   "title": "Hayat Sebla Evleri Şebeke Suyu Hattı ve Su Deposu",
+   "legacyUrl": "/hayat-sebla-evleri-sebeke-suyu-hattinin-degisimi-ve-su-deposu-imalati-2017/",
+   "year": 2017,
+   "city": null,
+   "sector": "konut-villa",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2154-600.webp",
+     "thumb": "/media/2154-600.webp",
+     "w": 600,
+     "h": 419
+    }
+   ]
+  },
+  {
+   "slug": "let-s-make-coffee-metromall-avm",
+   "title": "Let's Make Coffee, MetroMall AVM",
+   "legacyUrl": "/metromall-avm-lets-make-coffe-mekanik-tesisat-isleri-2017/",
+   "year": 2017,
+   "city": "Ankara",
+   "sector": "restoran-kafe",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "mahall-ankara-44-no-lu-ofis",
+   "title": "Mahall Ankara 44 No'lu Ofis",
+   "legacyUrl": "/mahall-ankara-ofis-mekanik-tesisat-isleri/",
+   "year": 2017,
+   "city": "Ankara",
+   "sector": "ofis-plaza",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": [
+    {
+     "src": "/media/2119-1600.webp",
+     "thumb": "/media/2119-760.webp",
+     "w": 1920,
+     "h": 1080
+    }
+   ]
+  },
+  {
+   "slug": "donerci-ali-efendi-metromall-avm",
+   "title": "Dönerci Ali Efendi, MetroMall AVM",
+   "legacyUrl": "/metromall-avm-donerci-ali-efendi-mekanik-tesisat-isleri/",
+   "year": 2017,
+   "city": "Ankara",
+   "sector": "restoran-kafe",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "tpao-genel-mudurluk-isi-merkezi-esanjor-dairesi-yenilemesi",
+   "title": "TPAO Genel Müdürlük Isı Merkezi Eşanjör Dairesi Yenilemesi",
+   "legacyUrl": "/tpao-genel-mudurluk-yerleskesinde-isi-merkezi-esanjor-dairesinin-yenilenmesi/",
+   "year": 2017,
+   "city": "Ankara",
+   "sector": "kamu-savunma",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "tpao-arastirma-merkezi-laboratuvar-kimyasal-tup-merkezilestirmesi",
+   "title": "TPAO Araştırma Merkezi Laboratuvar Kimyasal Tüp Merkezileştirmesi",
+   "legacyUrl": "/tpao-arastirma-merkezi-daire-baskanligi-laboratuvar-cihazlarina-ait-kimyasal-tuplerin-bina-disina-alinarak-merkezilestirilmesi-yapimi-2015/",
+   "year": 2015,
+   "city": "Ankara",
+   "sector": "kamu-savunma",
+   "systems": [
+    "havalandirma",
+    "isitma",
+    "sogutma",
+    "sihhi",
+    "yangin"
+   ],
+   "images": []
+  },
+  {
+   "slug": "et-ve-sut-kurumu-denizli-et-kombinasi-sogutma-sistemi",
+   "title": "Et ve Süt Kurumu Denizli Et Kombinası Soğutma Sistemi",
+   "legacyUrl": "/et-ve-sut-kurumu-genel-mudurlugu-denizli-et-kombinasi-sogutma-sistemi-projesi-2014/",
+   "year": 2014,
+   "city": "Denizli",
+   "sector": "kamu-savunma",
+   "systems": [
+    "isitma",
+    "sogutma"
+   ],
+   "images": [
+    {
+     "src": "/media/2137-450.webp",
+     "thumb": "/media/2137-450.webp",
+     "w": 450,
+     "h": 259
+    }
+   ]
+  },
+  {
+   "slug": "et-ve-sut-kurumu-bingol-et-kombinasi-sogutma-sistemi",
+   "title": "Et ve Süt Kurumu Bingöl Et Kombinası Soğutma Sistemi",
+   "legacyUrl": "/et-ve-sut-kurumu-genel-mudurlugu-bingol-et-kombinasi-sogutma-sistemi-2013/",
+   "year": 2013,
+   "city": "Bingöl",
+   "sector": "kamu-savunma",
+   "systems": [
+    "isitma",
+    "sogutma"
+   ],
+   "images": []
+  }
+ ],
+ "arabica": {
+  "slug": "arabica-coffee-house",
+  "title": "Arabica Coffee House",
+  "subtitle": "Zincir genelinde mekanik tesisat çözüm ortaklığı",
+  "sector": "restoran-kafe",
+  "branchCount": 137,
+  "cityCount": 42,
+  "abroad": [
+   "Ukrayna",
+   "Irak (Erbil)"
+  ],
+  "branches": [
+   {
+    "name": "Aksaray",
+    "city": "Aksaray"
+   },
+   {
+    "name": "Ankara Bahçelievler",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Beşevler",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Bişkek Caddesi",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Emek8",
+    "city": "Ankara"
+   },
+   {
+    "name": "Kayseri Talas",
+    "city": "Kayseri"
+   },
+   {
+    "name": "Ankara Moment",
+    "city": "Ankara"
+   },
+   {
+    "name": "Nevşehir",
+    "city": "Nevşehir"
+   },
+   {
+    "name": "Niğde",
+    "city": "Niğde"
+   },
+   {
+    "name": "Ankara Silahtar",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Türkocağı",
+    "city": "Ankara"
+   },
+   {
+    "name": "Batman",
+    "city": "Batman"
+   },
+   {
+    "name": "Ankara Bilkent",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Çankaya Üniversitesi",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Cepa AVM",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Mahall",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara ODTÜ",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Polatlı Meydan",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Tepe Prime",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Dikmen 1071",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Hoşdere",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Köroğlu",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Panora AVM",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Yıldız Kule",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Beker Plaza",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Beysukent",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Çayyolu",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Dora Park",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Elya Center",
+    "city": "Ankara"
+   },
+   {
+    "name": "Eskişehir Capella Park",
+    "city": "Eskişehir"
+   },
+   {
+    "name": "Eskişehir Collesium",
+    "city": "Eskişehir"
+   },
+   {
+    "name": "Eskişehir Eczacılık",
+    "city": "Eskişehir"
+   },
+   {
+    "name": "Eskişehir Porsuk",
+    "city": "Eskişehir"
+   },
+   {
+    "name": "Eskişehir Vega AVM",
+    "city": "Eskişehir"
+   },
+   {
+    "name": "Kütahya",
+    "city": "Kütahya"
+   },
+   {
+    "name": "Ankara Yaşamkent Sierra",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Hamamönü",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Kurtuluş",
+    "city": "Ankara"
+   },
+   {
+    "name": "Antalya Casamax",
+    "city": "Antalya"
+   },
+   {
+    "name": "Antalya Konyaaltı",
+    "city": "Antalya"
+   },
+   {
+    "name": "Antalya Lara",
+    "city": "Antalya"
+   },
+   {
+    "name": "Isparta İyaş AVM",
+    "city": "Isparta"
+   },
+   {
+    "name": "Isparta Meydan AVM",
+    "city": "Isparta"
+   },
+   {
+    "name": "Konya",
+    "city": "Konya"
+   },
+   {
+    "name": "Ankara Atatürk Bulvarı",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara GMK",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara İnkılap Sokak",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Olgunlar",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Selanik",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara TED Üniversitesi",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Tunalı",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Adres Eryaman",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Bağlıca",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Bağlıca 2",
+    "city": "Ankara"
+   },
+   {
+    "name": "Düzce Krempark",
+    "city": "Düzce"
+   },
+   {
+    "name": "Ankara Elvankent",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Eryaman Port",
+    "city": "Ankara"
+   },
+   {
+    "name": "Karabük",
+    "city": "Karabük"
+   },
+   {
+    "name": "Ankara Kaşmir Center",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Relax Göksu",
+    "city": "Ankara"
+   },
+   {
+    "name": "Zonguldak Ereğli",
+    "city": "Zonguldak"
+   },
+   {
+    "name": "Afyon",
+    "city": "Afyonkarahisar"
+   },
+   {
+    "name": "Ankara Antares AVM",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Cevreli Caddesi",
+    "city": "Ankara"
+   },
+   {
+    "name": "Denizli",
+    "city": "Denizli"
+   },
+   {
+    "name": "Ankara Etlik Giresun Caddesi",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara İvedik",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara İvedik Metro",
+    "city": "Ankara"
+   },
+   {
+    "name": "İzmir Küçük Park",
+    "city": "İzmir"
+   },
+   {
+    "name": "Ankara Cumhuriyet Caddesi",
+    "city": "Ankara"
+   },
+   {
+    "name": "Muğla Kötekli",
+    "city": "Muğla"
+   },
+   {
+    "name": "Ankara Pursaklar",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Pursaklar Kocalar",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Vega Subayevleri",
+    "city": "Ankara"
+   },
+   {
+    "name": "Amasya",
+    "city": "Amasya"
+   },
+   {
+    "name": "Ankara ASO 1",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Atılım Üniversitesi",
+    "city": "Ankara"
+   },
+   {
+    "name": "Çankırı",
+    "city": "Çankırı"
+   },
+   {
+    "name": "Çorum",
+    "city": "Çorum"
+   },
+   {
+    "name": "Ankara Etimesgut Garden",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Gölbaşı Sante Park",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara İncek Vista",
+    "city": "Ankara"
+   },
+   {
+    "name": "Kastamonu Kastamall AVM",
+    "city": "Kastamonu"
+   },
+   {
+    "name": "Samsun Atakum",
+    "city": "Samsun"
+   },
+   {
+    "name": "Ankara Sincan Sıra Sokak",
+    "city": "Ankara"
+   },
+   {
+    "name": "Adana",
+    "city": "Adana"
+   },
+   {
+    "name": "Ankara ASTİM Skypark",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Atlantis AVM",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Batıkent Gala",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Hacettepe Üniversitesi",
+    "city": "Ankara"
+   },
+   {
+    "name": "Hatay Garden",
+    "city": "Hatay"
+   },
+   {
+    "name": "Kahramanmaraş",
+    "city": "Kahramanmaraş"
+   },
+   {
+    "name": "Mersin",
+    "city": "Mersin"
+   },
+   {
+    "name": "Ankara Tandoğan",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara YDA Avenue",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Yeni Batı",
+    "city": "Ankara"
+   },
+   {
+    "name": "Konya Meram",
+    "city": "Konya"
+   },
+   {
+    "name": "Ankara AŞTİ",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Farilya",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Hüseyingazi",
+    "city": "Ankara"
+   },
+   {
+    "name": "Kırıkkale Yahşihan",
+    "city": "Kırıkkale"
+   },
+   {
+    "name": "Kırıkkale Merkez",
+    "city": "Kırıkkale"
+   },
+   {
+    "name": "Kırşehir",
+    "city": "Kırşehir"
+   },
+   {
+    "name": "Ankara Mamak",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Paragon Tower",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Regnum Sky Tower",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara YDA Center",
+    "city": "Ankara"
+   },
+   {
+    "name": "Yozgat",
+    "city": "Yozgat"
+   },
+   {
+    "name": "Balıkesir",
+    "city": "Balıkesir"
+   },
+   {
+    "name": "Bursa Parkora",
+    "city": "Bursa"
+   },
+   {
+    "name": "İstanbul Bakırköy",
+    "city": "İstanbul"
+   },
+   {
+    "name": "İstanbul Nevçarşı",
+    "city": "İstanbul"
+   },
+   {
+    "name": "İstanbul Vega AVM",
+    "city": "İstanbul"
+   },
+   {
+    "name": "Kocaeli",
+    "city": "Kocaeli"
+   },
+   {
+    "name": "Sakarya",
+    "city": "Sakarya"
+   },
+   {
+    "name": "Ankara Mülkiyeler Birliği",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Şaraçoğlu",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Etlik Şehir Hastanesi",
+    "city": "Ankara"
+   },
+   {
+    "name": "Elazığ",
+    "city": "Elazığ"
+   },
+   {
+    "name": "Malatya",
+    "city": "Malatya"
+   },
+   {
+    "name": "Diyarbakır",
+    "city": "Diyarbakır"
+   },
+   {
+    "name": "Bartın",
+    "city": "Bartın"
+   },
+   {
+    "name": "Ankara Sincan Dora Park",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Yenikent",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Bilkent Şehir Hastanesi",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Batıkent Akkent",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Kızılay Sakarya Caddesi",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Velüx",
+    "city": "Ankara"
+   },
+   {
+    "name": "Erzurum",
+    "city": "Erzurum"
+   },
+   {
+    "name": "Ankara Çubuk",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ankara Ankamall",
+    "city": "Ankara"
+   },
+   {
+    "name": "Bolu",
+    "city": "Bolu"
+   },
+   {
+    "name": "Ankara Başkent OSB",
+    "city": "Ankara"
+   },
+   {
+    "name": "Ukrayna",
+    "city": "Ukrayna"
+   },
+   {
+    "name": "Irak, Erbil",
+    "city": "Irak (Erbil)"
+   },
+   {
+    "name": "Microlot Etlik Giresun Caddesi",
+    "city": "Giresun"
+   },
+   {
+    "name": "Microlot Eryaman",
+    "city": "Ankara"
+   }
+  ],
+  "systems": [
+   "isitma",
+   "sogutma",
+   "havalandirma",
+   "sihhi",
+   "yangin"
+  ],
+  "images": [
+   {
+    "src": "/media/3483-1600.webp",
+    "thumb": "/media/3483-760.webp",
+    "w": 1600,
+    "h": 1200
+   },
+   {
+    "src": "/media/3005-960.webp",
+    "thumb": "/media/3005-760.webp",
+    "w": 960,
+    "h": 960
+   },
+   {
+    "src": "/media/2447-1080.webp",
+    "thumb": "/media/2447-760.webp",
+    "w": 1080,
+    "h": 810
+   },
+   {
+    "src": "/media/3192-1500.webp",
+    "thumb": "/media/3192-760.webp",
+    "w": 1500,
+    "h": 1125
+   },
+   {
+    "src": "/media/2507-500.webp",
+    "thumb": "/media/2507-500.webp",
+    "w": 500,
+    "h": 500
+   },
+   {
+    "src": "/media/2517-960.webp",
+    "thumb": "/media/2517-760.webp",
+    "w": 960,
+    "h": 720
+   },
+   {
+    "src": "/media/2540-1080.webp",
+    "thumb": "/media/2540-760.webp",
+    "w": 1080,
+    "h": 810
+   },
+   {
+    "src": "/media/2548-960.webp",
+    "thumb": "/media/2548-760.webp",
+    "w": 960,
+    "h": 960
+   }
+  ],
+  "yearFrom": 2018,
+  "postCount": 64
+ },
+ "hero": {
+  "src": "/media/2181-1600.webp",
+  "thumb": "/media/2181-760.webp",
+  "w": 1600,
+  "h": 940
+ },
+ "kyiv": {
+  "src": "/media/3240-750.webp",
+  "thumb": "/media/3240-750.webp",
+  "w": 750,
+  "h": 250
+ }
+}

@@ -1,0 +1,115 @@
+.intro {
+  padding-top: calc(var(--header-h) + clamp(40px, 5vw, 72px));
+  padding-bottom: clamp(48px, 6vw, 88px);
+}
+
+.introGrid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.05fr);
+  align-items: center;
+  gap: clamp(40px, 6vw, 88px);
+}
+
+.introText {
+  display: grid;
+  gap: 24px;
+  max-width: 48ch;
+}
+
+.introText h1 {
+  margin-bottom: 8px;
+}
+
+.introText p {
+  margin: 0;
+  color: var(--soft);
+  line-height: 1.8;
+}
+
+.application {
+  margin: 0;
+}
+
+.application > img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 2px;
+}
+
+.application figcaption {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  margin-top: 16px;
+  font-size: 13px;
+  line-height: 1.6;
+  color: var(--muted);
+}
+
+.application figcaption div {
+  display: grid;
+  gap: 2px;
+}
+
+.application figcaption span:first-child {
+  color: var(--text);
+  font-weight: 600;
+}
+
+.application figcaption a {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 40px;
+  height: 40px;
+  border: 1px solid var(--line-2);
+  border-radius: 2px;
+  color: var(--soft);
+  transition: border-color 0.2s, color 0.2s;
+}
+
+.application figcaption a:hover {
+  border-color: var(--text);
+  color: var(--text);
+}
+
+.application figcaption svg {
+  width: 18px;
+  height: 18px;
+}
+
+.details {
+  padding-bottom: 40px;
+}
+
+.detail {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
+  gap: clamp(40px, 6vw, 88px);
+  border-top: 1px solid var(--line);
+  padding-block: clamp(40px, 4vw, 56px);
+}
+
+.detailText {
+  display: grid;
+  justify-items: start;
+  gap: 20px;
+  max-width: 68ch;
+}
+
+.detailText p {
+  margin: 0;
+  color: var(--soft);
+  line-height: 1.85;
+}
+
+@media (max-width: 900px) {
+  .introGrid,
+  .detail {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+}

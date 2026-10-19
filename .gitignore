@@ -20,6 +20,9 @@
 # production
 /build
 
+# film kaynakları ve arşiv kopyaları (büyük dosyalar, ayrıca yedeklenir)
+/video/
+
 # misc
 .DS_Store
 *.pem

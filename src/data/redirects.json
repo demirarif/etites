@@ -1,0 +1,838 @@
+[
+ {
+  "source": "/arabica-coffee-pursaklar-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/arabica-coffee-bilkent-station-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/arabica-coffee-kastamall-avm-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/yda-center-no-453-ve-454-ofis-projesi",
+  "destination": "/projeler/yda-center-453-ve-454-no-lu-ofisler"
+ },
+ {
+  "source": "/aselsan-mtal-projesi",
+  "destination": "/projeler/aselsan-mtal"
+ },
+ {
+  "source": "/yda-center-no141-ofis-projesi",
+  "destination": "/projeler/yda-center-141-no-lu-ofis"
+ },
+ {
+  "source": "/arabica-coffee-kizilay-konur-sokak-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/aselsan-kazan-dairesi-projesi",
+  "destination": "/projeler/aselsan-kazan-dairesi"
+ },
+ {
+  "source": "/arabica-coffee-kutahya-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/arabica-coffee-batikent-cakirlar-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/arabica-coffee-eskisehir-vega-avm-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/aydin-sehir-hastanesi-konteyner-mobilizasyon-projesi",
+  "destination": "/projeler/aydin-sehir-hastanesi-konteyner-mobilizasyon-klima-tesisati"
+ },
+ {
+  "source": "/arabica-coffee-house-uretim-fabrikasi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/arabica-coffee-kizilay-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/rivo-guvenlik-sistemleri-mersin-bolge-subesi-projesi",
+  "destination": "/projeler/rivo-guvenlik-mersin-bolge-ofisi"
+ },
+ {
+  "source": "/caffe-di-toee-beker-plaza-subesi-projesi",
+  "destination": "/projeler/caffe-di-toee-beker-plaza-subesi"
+ },
+ {
+  "source": "/caffe-di-toee-besa-kule-subesi-projesi",
+  "destination": "/projeler/caffe-di-toee-besa-kule-subesi"
+ },
+ {
+  "source": "/arabica-coffee-eymir-golu-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/arabica-coffee-nato-yolu-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/arabica-coffee-kirikkale-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/arabica-coffee-samsun-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/dorce-prefabrik-fabrika-projesi",
+  "destination": "/projeler/dorce-prefabrik-fabrikasi"
+ },
+ {
+  "source": "/moment-bestepe-ofis-projesi",
+  "destination": "/projeler/moment-bestepe-ofisi"
+ },
+ {
+  "source": "/trt-turk-binasi-projesi",
+  "destination": "/projeler/trt-turk-binasi"
+ },
+ {
+  "source": "/maxivedik-ofis-projesi",
+  "destination": "/projeler/maxivedik-is-merkezi-ofisi"
+ },
+ {
+  "source": "/arabica-coffee-istanbul-tem-point-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/hekimkoy-villalari-projesi",
+  "destination": "/projeler/hekimkoy-villalari"
+ },
+ {
+  "source": "/kazan-fabrika-projesi",
+  "destination": "/projeler/fabrika-kazan-dairesi"
+ },
+ {
+  "source": "/enbati-gayrimenkul-ofis-projesi",
+  "destination": "/projeler/enbati-gayrimenkul-ofisi"
+ },
+ {
+  "source": "/arabica-coffee-aksaray-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/arabica-coffee-moment-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/rivo-guvenlik-sistemleri-istanbul-bolge-subesi-projesi",
+  "destination": "/projeler/rivo-guvenlik-istanbul-bolge-ofisi"
+ },
+ {
+  "source": "/ostim-yigit-bobinaj-ofis-projesi",
+  "destination": "/projeler/yigit-bobinaj-ofisi-ostim"
+ },
+ {
+  "source": "/1071-ankara-ofis-projesi",
+  "destination": "/projeler/1071-ankara-ofisi"
+ },
+ {
+  "source": "/arabica-coffee-elvankent-14-cadde-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/arabica-coffee-sante-park-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/gym-art-spor-merkezi-projesi",
+  "destination": "/projeler/gym-art-spor-merkezi"
+ },
+ {
+  "source": "/arabica-coffee-eryaman-port-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/ostim-prestij-d-blok-55-numara-ofis-projesi",
+  "destination": "/projeler/ostim-prestij-d-blok-55-no-lu-ofis"
+ },
+ {
+  "source": "/dr-ali-sahan-klinik-projesi",
+  "destination": "/projeler/dr-ali-sahan-klinigi"
+ },
+ {
+  "source": "/arabica-coffee-gazi-mahallesi-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/ovecler-ofis-projesi",
+  "destination": "/projeler/ovecler-ofisi"
+ },
+ {
+  "source": "/aselsannet-isi-merkezi-projesi",
+  "destination": "/projeler/aselsannet-isi-merkezi"
+ },
+ {
+  "source": "/regnum-sky-tower-ofis-projesi",
+  "destination": "/projeler/regnum-sky-tower-ofisi"
+ },
+ {
+  "source": "/cakiroglu-ofis-projesi",
+  "destination": "/projeler/cakiroglu-ofisi"
+ },
+ {
+  "source": "/arabica-coffee-cayyolu-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/ostim-hm-commerce-center-ofis-projesi",
+  "destination": "/projeler/hm-commerce-center-dukkani-ostim"
+ },
+ {
+  "source": "/yelken-plaza-ofis-projesi",
+  "destination": "/projeler/yelken-plaza-ofisi"
+ },
+ {
+  "source": "/pekhan-insaat-is-merkezinin-mekanik-ve-dogalgaz-donusum-projesi",
+  "destination": "/projeler/pekhan-insaat-is-merkezi-mekanik-ve-dogalgaz-donusumu"
+ },
+ {
+  "source": "/officium-beytepe-ofis-projesi",
+  "destination": "/projeler/officium-beytepe-ofisi"
+ },
+ {
+  "source": "/aselsannet-guvercinlik-ag-yonetim-merkezi-projesi",
+  "destination": "/projeler/aselsannet-guvercinlik-ag-yonetim-merkezi"
+ },
+ {
+  "source": "/jandarma-havacilik-baskanligi-helikopter-hangarlar-projesi",
+  "destination": "/projeler/jandarma-havacilik-baskanligi-helikopter-hangarlari"
+ },
+ {
+  "source": "/via-green-ofis-projesi",
+  "destination": "/projeler/via-green-ofisi"
+ },
+ {
+  "source": "/ankara-emniyet-genel-mudurlugu-haberlesme-daire-baskanligi-projesi",
+  "destination": "/projeler/emniyet-genel-mudurlugu-haberlesme-daire-baskanligi"
+ },
+ {
+  "source": "/dekom-telekominikasyon-a-s-sivi-yakit-tanki-projesi",
+  "destination": "/projeler/dekom-telekomunikasyon-sivi-yakit-tanki"
+ },
+ {
+  "source": "/ostim-prestij-ofis-projesi",
+  "destination": "/projeler/ostim-prestij-ofisi"
+ },
+ {
+  "source": "/koc-kuleler-doktor-ekrem-civas-klinigi-projesi",
+  "destination": "/projeler/dr-ekrem-civas-klinigi-koc-kuleler"
+ },
+ {
+  "source": "/bina-projesi",
+  "destination": "/projeler/bina-mekanik-tesisati"
+ },
+ {
+  "source": "/vantage-umitkoy-konut-projesi",
+  "destination": "/projeler/vantage-umitkoy-konutlari-vrf-sistemi"
+ },
+ {
+  "source": "/fabrika-mekanik-tesisat-projesi",
+  "destination": "/projeler/fabrika-mekanik-tesisati"
+ },
+ {
+  "source": "/villa-yerden-isitma-projesi",
+  "destination": "/projeler/villa-yerden-isitma-uygulamasi"
+ },
+ {
+  "source": "/arabica-coffee-koroglu-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/mahall-ankarada-sestek-icin-ofis-projesi",
+  "destination": "/projeler/sestek-ofisi-mahall-ankara"
+ },
+ {
+  "source": "/mus-malazgirt-muzesi-mekanik-tesisat",
+  "destination": "/projeler/mus-malazgirt-muzesi"
+ },
+ {
+  "source": "/arabica-coffee-istanbul-bakirkoy-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/1071-usta-insaatta-121-ve-122-numarali-ofis-projesi",
+  "destination": "/projeler/1071-usta-insaat-121-ve-122-no-lu-ofisler"
+ },
+ {
+  "source": "/villa-mekanik-tesisat-sistemi-projesi",
+  "destination": "/projeler/villa-mekanik-tesisati"
+ },
+ {
+  "source": "/wcollection-ve-vakko-butikin-mekanik-tesisat-projesi",
+  "destination": "/projeler/wcollection-ve-vakko-butik"
+ },
+ {
+  "source": "/bayar-enerji-isi-merkezi-projesi",
+  "destination": "/projeler/bayar-enerji-isi-merkezi"
+ },
+ {
+  "source": "/oveclerdeki-ofis-icin-mekanik-tesisat-calismalari-tamamlandi",
+  "destination": "/projeler/ovecler-ofisi"
+ },
+ {
+  "source": "/paragon-tower-arabica-coffee-mekanik-tesisat-projesine-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/tunali-hilmi-arabica-coffee-subesinin-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/100-yil-farilya-arabica-coffee-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/vantage-umitkoyde-konutlar-icin-vrf-klima-sistemleri-projesi-tamamlandi",
+  "destination": "/projeler/vantage-umitkoy-konutlari-vrf-sistemi"
+ },
+ {
+  "source": "/arabica-coffee-antares-avm-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/koc-kulelerdeki-ofis-projesi-icinkoc-kulelerdeki-ofis-icin-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/koc-kuleler-ofisi"
+ },
+ {
+  "source": "/nata-subayevleri-avmde-arabica-coffee-icin-calismalar-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/nata-subayevleri-avm-ece-kumpir-tantuni-mekanik-tesisat-calismalari-tamamlandi",
+  "destination": "/projeler/ece-kumpir-tantuni-vega-subayevleri-avm"
+ },
+ {
+  "source": "/yasamkent-arabica-coffee-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/bahcelievler-arabica-coffee-mekanik-tesisat-revizyon-calismasini-tamamladik",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/ozciftay-insaat-yonetim-ofisi-icin-mekanik-tesisat-projesini-tamamladik",
+  "destination": "/projeler/ozciftay-insaat-yonetim-ofisi"
+ },
+ {
+  "source": "/mahall-ankarada-137-numarali-ofisin-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/mahall-ankara-137-no-lu-ofis"
+ },
+ {
+  "source": "/via-flatteki-ofis-icin-mekanik-tesisat-islerine-basladik",
+  "destination": "/projeler/via-flat-ofisi"
+ },
+ {
+  "source": "/telsam-telekom-merkez-ofisi-vrf-klima-sistemleri-projesi-tamamlandi",
+  "destination": "/projeler/telsam-telekom-merkez-ofisi-vrf-sistemi"
+ },
+ {
+  "source": "/mus-valiligine-bagli-merkez-koylere-hizmet-goturme-birligi-kafe-ve-misafirhanesi-icin-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/mus-valiligi-kafe-ve-misafirhanesi"
+ },
+ {
+  "source": "/lider-plastik-fabrikasi-havalandirma-projesine-basladik",
+  "destination": "/projeler/lider-plastik-fabrikasi"
+ },
+ {
+  "source": "/vakkonun-cepa-avm-subesi-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/vakko-cepa-avm"
+ },
+ {
+  "source": "/cankaya-gaziosmanpasa-arabica-coffee-mekanik-tesisat-projesini-tamamladik",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/aydin-arabica-coffee-mekanik-tesisat-projesini-tamamladik",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/b28-numarali-ofisin-mekanik-tesisat-isleri-tamamlandi",
+  "destination": "/projeler/besa-kule-b28-ofisi"
+ },
+ {
+  "source": "/odtu-teknokentteki-ofis-projesi-tamamlandi",
+  "destination": "/projeler/odtu-teknokent-ofisi"
+ },
+ {
+  "source": "/besa-kulede-b55-numarali-ofisin-mekanik-tesisat-isleri-tamamlandi",
+  "destination": "/projeler/besa-kule-b55-ofisi"
+ },
+ {
+  "source": "/mira-ofis-beytepede-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/mira-ofis-beytepe"
+ },
+ {
+  "source": "/maidan-ankarada-ofisin-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/maidan-ankara-ofisi"
+ },
+ {
+  "source": "/podium-avmde-acilan-prestige-accessoriesin-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/prestige-accessories-podium-avm"
+ },
+ {
+  "source": "/arabica-coffee-arcadium-subesi-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/dorce-prefabrik-yapi-fabrikasinin-havalandirma-projesi-tamamlandi",
+  "destination": "/projeler/dorce-prefabrik-yapi-fabrikasi-havalandirmasi"
+ },
+ {
+  "source": "/gemak-gidanin-havalandirma-projesi-tamamlandi",
+  "destination": "/projeler/gemak-gida-havalandirma-sistemi"
+ },
+ {
+  "source": "/btk-monitor-merkezi-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/btk-milli-monitor-merkezi"
+ },
+ {
+  "source": "/besa-kule-ofis-projesinin-mekanik-tesisat-isleri-tamamlandi",
+  "destination": "/projeler/besa-kule-ofisi"
+ },
+ {
+  "source": "/kizilay-olgunlar-arabica-coffee-mekanik-tesisat-projesini-tamamladik",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/mahall-ankarada-102-numarali-ofis-projesinin-mekanik-tesisat-isleri-tamamlandi",
+  "destination": "/projeler/mahall-ankara-102-no-lu-ofis"
+ },
+ {
+  "source": "/tepe-prime-ofis-projesinin-mekanik-tesisat-isleri-tamamlandi",
+  "destination": "/projeler/tepe-prime-ofisi"
+ },
+ {
+  "source": "/villa-projesinin-vrf-sistemlerini-tamamlandi",
+  "destination": "/projeler/villa-vrf-sistemi"
+ },
+ {
+  "source": "/aselsanin-golbasi-yerleskesi-vrf-klima-sistem-projesi",
+  "destination": "/projeler/aselsan-golbasi-yerleskesi-vrf-sistemi"
+ },
+ {
+  "source": "/kirikkale-arabica-coffee-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/monitor-merkezi-projesi-tamamlandi",
+  "destination": "/projeler/btk-milli-monitor-merkezi"
+ },
+ {
+  "source": "/gymfitin-taurus-avm-subesinin-mekanik-tesisat-isleri-tamamlandi",
+  "destination": "/projeler/gymfit-taurus-avm"
+ },
+ {
+  "source": "/hacettepe-universitesi-arabica-coffee-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/mersin-arabica-coffee-mekanik-tesisat-projesi-tamamalandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/kirsehir-arabica-coffee-mekanik-tesisat-projesine-basladik",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/mahall-ankara-b-blok-no-123-ofis-projesi-mekanik-tesisat-isleri",
+  "destination": "/projeler/mahall-ankara-b-blok-123-no-lu-ofis"
+ },
+ {
+  "source": "/antares-avmde-gymfitin-mekanik-tesisatinda-revizyon-calismasi-tamamlandi",
+  "destination": "/projeler/gymfit-antares-avm-revizyonu"
+ },
+ {
+  "source": "/kuzu-effectde-dukkan-projesinin-mekanik-havalandirma-tesisat-isleri-basladi",
+  "destination": "/projeler/kuzu-effect"
+ },
+ {
+  "source": "/kara-harp-okulu-akumulasyon-ve-boyler-tanklarinin-degisimi-projesi",
+  "destination": "/projeler/kara-harp-okulu-boyler-ve-akumulasyon-tanki-degisimi"
+ },
+ {
+  "source": "/ukrayna-arabica-coffee-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/kahramanmaras-arabica-coffee-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/acity-avmde-prestige-accessorienin-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/prestige-accessories-acity-avm"
+ },
+ {
+  "source": "/ankara-baglica-arabica-coffee-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/karabuk-arabica-coffee-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/panora-avmde-arabica-coffee-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/guangzhou-wuyang-cin-lokantasi-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/guangzhou-wuyang-cin-lokantasi"
+ },
+ {
+  "source": "/ankara-kurtulus-arabica-coffee-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/regnum-sky-towerda-ofis-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/regnum-sky-tower-ofisi"
+ },
+ {
+  "source": "/1071-ankarada-103-ve-104-numarali-ofislerin-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/1071-ankara-103-ve-104-no-lu-ofisler"
+ },
+ {
+  "source": "/konya-arabica-coffee-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/yeni-ofisimize-tasindik",
+  "destination": "/projeler"
+ },
+ {
+  "source": "/beysukent-arabica-coffee-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/panora-avmde-moda-cafenin-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/moda-cafe-panora-avm"
+ },
+ {
+  "source": "/ankara-yda-center-arabica-coffee-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/piano-dental-clinic-mekanik-tesisat-isleri-tamamlandi",
+  "destination": "/projeler/piano-dental-clinic"
+ },
+ {
+  "source": "/isparta-arabica-coffee-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/tepe-prime-arabica-coffee-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/imer-groupun-aksarayda-vrf-sistemi-kurulum-isine-basladik",
+  "destination": "/projeler/imer-group-aksaray-vrf-sistemi"
+ },
+ {
+  "source": "/mahall-ankarada-212-numarali-ofis-projesi-mekanik-tesisat-islerine-basladik",
+  "destination": "/projeler/mahall-ankara-212-no-lu-ofis"
+ },
+ {
+  "source": "/hosdere-cadddesi-arabica-coffee-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/mahall-ankarada-food-loversin-mekanik-tesisat-projesine-basladik",
+  "destination": "/projeler/food-lovers-mahall-ankara"
+ },
+ {
+  "source": "/besa-kulede-gayrimenkul-ofisi-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/besa-kule-gayrimenkul-ofisi"
+ },
+ {
+  "source": "/tunus-caddesinde-avukatlik-burosu-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/avukatlik-burosu-tunus-caddesi"
+ },
+ {
+  "source": "/yildiz-kule-ofis-projesinin-mekanik-tesisat-islerine-basladik",
+  "destination": "/projeler/yildiz-kule-ofisi"
+ },
+ {
+  "source": "/libra-kulelerinde-2-ofis-projesinin-mekanik-tesisat-islerine-basladik",
+  "destination": "/projeler/libra-kuleleri-ofisi"
+ },
+ {
+  "source": "/ankaparkda-oyuncak-sekerleme-dukkani-mekanik-tesisat-islerini-tamamlandi",
+  "destination": "/projeler/oyuncak-ve-sekerleme-magazasi-ankapark"
+ },
+ {
+  "source": "/koc-kuleleri-ofis-projesinin-mekanik-tesisat-islerine-basladik",
+  "destination": "/projeler/koc-kuleler-ofisi"
+ },
+ {
+  "source": "/lets-make-coffeenin-mekanik-tesisat-isleri-tamamlandi",
+  "destination": "/projeler/let-s-make-coffee"
+ },
+ {
+  "source": "/mahall-ankarada-b-blok-ofis-projesi-mekanik-tesisat-islerine-basladik",
+  "destination": "/projeler/mahall-ankara-b-blok-185-no-lu-ofis"
+ },
+ {
+  "source": "/regnum-sky-towerda-ofis-projesi-mekanik-tesisat-islerine-basladik",
+  "destination": "/projeler/regnum-sky-tower-ofisi"
+ },
+ {
+  "source": "/mahall-ankarada-zepplin-pubin-mekanik-tesisat-islerine-basladik",
+  "destination": "/projeler/zeppelin-pub-mahall-ankara"
+ },
+ {
+  "source": "/mustafa-demiralpin-profesyonel-make-up-ve-hair-studiosunun-mekanik-tesisat-isleri-basladi",
+  "destination": "/projeler/mustafa-demiralp-make-up-hair-studio"
+ },
+ {
+  "source": "/mahall-ankarada-b-blok-157-nolu-ofisin-mekanik-tesisat-isleri-tamamlandi",
+  "destination": "/projeler/mahall-ankara-b-blok-157-no-lu-ofis"
+ },
+ {
+  "source": "/cukurambarda-usta-insaat-1071de-ofis-mekanik-tesisat-isleri-tamamlandi",
+  "destination": "/projeler/1071-cukurambar-ofisi-usta-insaat"
+ },
+ {
+  "source": "/ankaparkta-oyuncak-dukkan-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/vizyon-oyuncak-ankapark"
+ },
+ {
+  "source": "/ankapark-arabica-coffee-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/incek-vista-arabica-coffee-mekanik-tesisat-projesine-basladik",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/mahall-ankarada-band-interior-mimarlik-ile-ofis-projesine-basladik",
+  "destination": "/projeler/mahall-ankara-ofisi-band-interior-ile"
+ },
+ {
+  "source": "/ankamall-vakko-butik-magazasi-projesi",
+  "destination": "/projeler/vakko-butik-ankamall"
+ },
+ {
+  "source": "/bilkent-entegre-sehir-hastanesi-simit-teknesi-projesi",
+  "destination": "/projeler/simit-teknesi-bilkent-sehir-hastanesi"
+ },
+ {
+  "source": "/izmir-bornova-kucukparkta-arabica-coffee",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/polatli-arabica-coffee-mekanik-tesisat-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/eskisehir-osman-gazi-universitesi-tip-fakultesi-hastanesi-mekanik-tesisat-projesi",
+  "destination": "/projeler/eskisehir-osmangazi-universitesi-tip-fakultesi-hastanesi"
+ },
+ {
+  "source": "/turkerler-mahall-ankara-havalandirma-tadilati",
+  "destination": "/projeler/turkerler-mahall-ankara-havalandirma-tadilati"
+ },
+ {
+  "source": "/china-bloom-projemiz-tamamlandi",
+  "destination": "/projeler/china-bloom-galleria-avm"
+ },
+ {
+  "source": "/cankaya-universitesi-arabica-coffee-subesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/atakule-minyon-projesi",
+  "destination": "/projeler/minyon-atakule"
+ },
+ {
+  "source": "/yildiz-kulede-arabica-coffee-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/ostim-teknopark-arabicaa-coffee-projesi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/yht-gar-balo-salonu-mekanik-tesisat-isleri-tamamlandi",
+  "destination": "/projeler/ankara-yht-gar-balo-salonu"
+ },
+ {
+  "source": "/galleria-avmde-china-bloom-projesi",
+  "destination": "/projeler/china-bloom-galleria-avm"
+ },
+ {
+  "source": "/turkiye-petrolleri-bakim-calismasi",
+  "destination": "/projeler/tpao-mekanik-tesisat-bakimi"
+ },
+ {
+  "source": "/arabica-villa-ofis-klima-calismasi-tamamlandi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/dent-group-15-subesi-ankara-cayyolu",
+  "destination": "/projeler/dent-group-cayyolu-subesi"
+ },
+ {
+  "source": "/jandarma-dikim-evi-askeriye-havalandirma-projesi",
+  "destination": "/projeler/jandarma-dikim-evi"
+ },
+ {
+  "source": "/eskisehirde-arabica-coffee-house-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/ankara-dikmen-1071de-arabica-coffee",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/etites-ekibi-iftar-yemeginde",
+  "destination": "/projeler"
+ },
+ {
+  "source": "/elmadag-devlet-hastanesi-bakim-ve-onarim-isleri-tamamlandi",
+  "destination": "/projeler/elmadag-devlet-hastanesi-havalandirma-bakimi"
+ },
+ {
+  "source": "/mahall-ankara-f-blok-f07de-kurumsal-ofis-projesi",
+  "destination": "/projeler/mahall-ankara-f07-kurumsal-ofisi"
+ },
+ {
+  "source": "/eskisehir-arabica-coffee-house",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/arabica-coffee-imalathanesi-mekanik-tesisat-isleri",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/mahall-ankaranin-satis-ofisi",
+  "destination": "/projeler/mahall-ankara-satis-ofisi"
+ },
+ {
+  "source": "/mahall-ankarada-tamamlanan-ofis-calismalari",
+  "destination": "/projeler/mahall-ankara-ofisi"
+ },
+ {
+  "source": "/turk-oftalmoloji-dernegi-havalandirma-tesisati-ve-acik-tavan-uygulamasi",
+  "destination": "/projeler/turk-oftalmoloji-dernegi-havalandirma-ve-acik-tavan-uygulamasi"
+ },
+ {
+  "source": "/kizilay-arabica-coffece-projesi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/mahall-ankara-cin-seddi-restaurant-projesi",
+  "destination": "/projeler/cin-seddi-restaurant-mahall-ankara"
+ },
+ {
+  "source": "/gimat-gross-arabica-coffee-house-hizmete-basladi",
+  "destination": "/projeler/arabica-coffee-house"
+ },
+ {
+  "source": "/mahall-ankara-e-blok-no-45-ofis-calismasi",
+  "destination": "/projeler/mahall-ankara-e-blok-45-no-lu-ofis"
+ },
+ {
+  "source": "/cin-seddi-restaurant-mekanik-tesisat-calismasi",
+  "destination": "/projeler/cin-seddi-restaurant-mahall-ankara"
+ },
+ {
+  "source": "/modern-mimari-tasarimlarinda-mekanik-uygulamalari-basari-ile-yurutmekteyiz",
+  "destination": "/projeler"
+ },
+ {
+  "source": "/prestij-projelerin-mekanik-tesisat-iklimlendirme-cozum-ortagi-olmaktan-gurur-duyariz",
+  "destination": "/projeler"
+ },
+ {
+  "source": "/turkiyenin-en-iyi-mimarlik-firmasi-move-mimarlik-ile-maidan-ankara-projesinde-5-adet-ofisin-mekanik-tesisat-islerine-basladik",
+  "destination": "/projeler/maidan-ankara-move-ic-mimarlik-ile"
+ },
+ {
+  "source": "/turkiyenin-en-iyi-mimarlik-firmasi-move-mimarlik-ile-mahall-ankara-projesinde-4-adet-ofisin-mekanik-tesisat-islerine-basladik",
+  "destination": "/projeler/mahall-ankara-move-ic-mimarlik-ile"
+ },
+ {
+  "source": "/tcopmt-ofis-konteyner-tipi-isitma-sitemi-2017",
+  "destination": "/projeler/tco-pmt-ofis-konteyner-tipi-isitma-sistemi"
+ },
+ {
+  "source": "/tcomain-canteen-konteyner-tipi-isitma-sistemi-2017",
+  "destination": "/projeler/tco-main-canteen-konteyner-tipi-isitma-sistemi"
+ },
+ {
+  "source": "/odtu-hazirlik-isi-santrali-ve-cevre-muh-rektorluk-kavsagi-buhar-borularina-yalitim-yapilmasi-2017",
+  "destination": "/projeler/odtu-hazirlik-isi-santrali-buhar-boru-hatti"
+ },
+ {
+  "source": "/hayat-sebla-evleri-sebeke-suyu-hattinin-degisimi-ve-su-deposu-imalati-2017",
+  "destination": "/projeler/hayat-sebla-evleri-sebeke-suyu-hatti-ve-su-deposu"
+ },
+ {
+  "source": "/metromall-avm-lets-make-coffe-mekanik-tesisat-isleri-2017",
+  "destination": "/projeler/let-s-make-coffee-metromall-avm"
+ },
+ {
+  "source": "/mahall-ankara-ofis-mekanik-tesisat-isleri",
+  "destination": "/projeler/mahall-ankara-44-no-lu-ofis"
+ },
+ {
+  "source": "/metromall-avm-donerci-ali-efendi-mekanik-tesisat-isleri",
+  "destination": "/projeler/donerci-ali-efendi-metromall-avm"
+ },
+ {
+  "source": "/tpao-genel-mudurluk-yerleskesinde-isi-merkezi-esanjor-dairesinin-yenilenmesi",
+  "destination": "/projeler/tpao-genel-mudurluk-isi-merkezi-esanjor-dairesi-yenilemesi"
+ },
+ {
+  "source": "/tpao-arastirma-merkezi-daire-baskanligi-laboratuvar-cihazlarina-ait-kimyasal-tuplerin-bina-disina-alinarak-merkezilestirilmesi-yapimi-2015",
+  "destination": "/projeler/tpao-arastirma-merkezi-laboratuvar-kimyasal-tup-merkezilestirmesi"
+ },
+ {
+  "source": "/et-ve-sut-kurumu-genel-mudurlugu-denizli-et-kombinasi-sogutma-sistemi-projesi-2014",
+  "destination": "/projeler/et-ve-sut-kurumu-denizli-et-kombinasi-sogutma-sistemi"
+ },
+ {
+  "source": "/et-ve-sut-kurumu-genel-mudurlugu-bingol-et-kombinasi-sogutma-sistemi-2013",
+  "destination": "/projeler/et-ve-sut-kurumu-bingol-et-kombinasi-sogutma-sistemi"
+ },
+ {
+  "source": "/tum-yaptigimiz-isler",
+  "destination": "/projeler"
+ },
+ {
+  "source": "/partnerlerimiz",
+  "destination": "/referanslar"
+ },
+ {
+  "source": "/cozumlerimiz",
+  "destination": "/cozumler"
+ },
+ {
+  "source": "/teklif-alin",
+  "destination": "/iletisim"
+ },
+ {
+  "source": "/ucretsiz-kesif",
+  "destination": "/iletisim"
+ },
+ {
+  "source": "/kariyer",
+  "destination": "/"
+ },
+ {
+  "source": "/sikca-sorulan-sorular",
+  "destination": "/"
+ },
+ {
+  "source": "/referanslar/arabica-coffee-house",
+  "destination": "/projeler/arabica-coffee-house"
+ }
+]

@@ -224,8 +224,8 @@
   "group": "yapi",
   "src": "/referanslar/bayyapinsaat.png",
   "mask": "/referanslar/bayyapinsaat-maske.png",
-  "w": 188,
-  "h": 30,
+  "w": 148,
+  "h": 24,
   "aspect": 6.175,
   "coverage": 0.265
  },

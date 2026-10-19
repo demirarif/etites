@@ -439,7 +439,7 @@ h3 {
   border-color: var(--on-anth-muted);
 }
 
-/* Teklif Al: arada bir hafifçe sallanır */
+/* Teklif Al: birkaç saniyede bir hafifçe büyüyüp sallanır */
 
 .teklif .btn__body {
   min-height: 44px;
@@ -451,7 +451,7 @@ h3 {
 
 @media (prefers-reduced-motion: no-preference) {
   .teklif .btn__body {
-    animation: nudge 9s var(--ease) infinite 3s;
+    animation: nudge 6s var(--ease) infinite 2s;
   }
 
   .teklif:hover .btn__body {
@@ -462,21 +462,24 @@ h3 {
 
 @keyframes nudge {
   0%,
-  88%,
+  18%,
   100% {
-    transform: translateX(0);
+    transform: none;
   }
-  90% {
-    transform: translateX(-3px);
+  2% {
+    transform: scale(1.06);
   }
-  92% {
-    transform: translateX(3px);
+  5% {
+    transform: scale(1.06) translateX(-5px) rotate(-2deg);
   }
-  94% {
-    transform: translateX(-2px);
+  8% {
+    transform: scale(1.06) translateX(5px) rotate(2deg);
   }
-  96% {
-    transform: translateX(1px);
+  11% {
+    transform: scale(1.04) translateX(-3px) rotate(-1deg);
+  }
+  14% {
+    transform: scale(1.02) translateX(2px) rotate(0.5deg);
   }
 }
 
@@ -2797,6 +2800,7 @@ img.tone[data-lit="true"],
 
 .lwall__cell {
   display: grid;
+  grid-template-columns: minmax(0, 1fr);
   place-items: center;
   aspect-ratio: 16 / 10;
   padding: 18px;
@@ -2804,6 +2808,11 @@ img.tone[data-lit="true"],
   border-bottom: 1px solid var(--line);
   background: var(--white);
   transition: background 0.3s;
+}
+
+/* Geniş bir logo hücreden taşmaz, oranını koruyarak küçülür */
+.lwall__cell .logo {
+  max-width: 100%;
 }
 
 .lwall__cell:hover {
